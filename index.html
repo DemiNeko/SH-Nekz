@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <title>Выбор предмета</title>
+  <link rel="stylesheet" href="istl.css" />
+</head>
+<body>
+<div class="container">
+  <h1>Выберите предмет</h1>
+  <a class="button" onclick="startTest('db')">База данных</a>
+  <a class="button" onclick="startTest('engl')">Англиский</a>
+  <a class="button" onclick="startTest('ws')">Zero-код</a>
+</div>
+  <script>
+    function startTest(subject) {
+      window.location.href = `test.html?subject=${subject}`;
+    }
+  </script>
+</body>
+</html>
