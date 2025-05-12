@@ -125,7 +125,7 @@
         ]
     },
     {
-        "question": "Төменде көрсетілген SQL сұрауының орындалуы нәтижесінде қандай мәліметтер алынады?",
+        "question": "Төменде көрсетілген SQL сұрауының орындалуы нәтижесінде қандай мәліметтер алынады?select distinct surname, name from lecturer a, subj_lect b where a.lecturer_id=b.lecturer_id and b.subj_id in (select c.subj_id from subject с where semester in (9,10))",
         "options": [
             {
                 "text": "Бесінші курста сабақ өткізетін оқытушылардың аттары мен фамилиялары туралы мәліметтер",
@@ -2061,7 +2061,7 @@
                 "isCorrect": false
             },
             {
-                "text": "",
+                "text": "select name, surname from student where stipend>0",
                 "isCorrect": false
             },
             {
@@ -2236,11 +2236,11 @@
                 "isCorrect": false
             },
             {
-                "text": "",
+                "text": "select name, surname from student where stipend>0",
                 "isCorrect": false
             },
             {
-                "text": "",
+                "text": "select *from student where kurs=2 and stipend>0",
                 "isCorrect": false
             },
             {
@@ -3800,7 +3800,7 @@
         ]
     },
     {
-        "question": "select name, surname, city from student",
+        "question": "select name, surname, city from studentwhere city=’Липецк’ сұранысы нәтижесінде қандай мәлімет шығады",
         "options": [
             {
                 "text": "Липецк  қаласында тұратын студенттердің тегі мен есімдері",
@@ -4565,7 +4565,11 @@
                 "isCorrect": false
             },
             {
-                "text": "Мәліметті енгізуге, көрсетуге және  өзгертуге мүмкіндік беретін мәліметтер базасының объектісі<variant>",
+                "text": "Мәліметті енгізуге, көрсетуге және  өзгертуге мүмкіндік беретін мәліметтер базасының объектісі",
+                "isCorrect": false
+            },
+            {
+                "text": "Мәліметті тез іздеу құралы",
                 "isCorrect": false
             }
         ]
