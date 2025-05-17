@@ -3504,7 +3504,7 @@
         "options": [
             {
                 "text": "инновациялық тәсіл",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "text": "инноватика",
@@ -3516,7 +3516,7 @@
             },
             {
                 "text": "экономикалық бәсеке",
-                "isCorrect": true
+                "isCorrect": false
             },
             {
                 "text": "бәсекеге қабілеттілік",
@@ -5679,7 +5679,7 @@
         "options": [
             {
                 "text": "инновациялық тәсіл",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "text": "инноватика",
@@ -5691,7 +5691,7 @@
             },
             {
                 "text": "экономикалық бәсеке",
-                "isCorrect": true
+                "isCorrect": false
             },
             {
                 "text": "бәсекеге қабілеттілік",
