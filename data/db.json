@@ -4,11 +4,11 @@
         "options": [
             {
                 "text": "Адам Смит",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "text": "ЙозефАлоизШумпетер",
-                "isCorrect": true
+                "isCorrect": false
             },
             {
                 "text": "Жан Батист Сэй",
@@ -504,7 +504,7 @@
         "options": [
             {
                 "text": "ірі",
-                "isCorrect": true
+                "isCorrect": false
             },
             {
                 "text": "орта",
@@ -520,7 +520,7 @@
             },
             {
                 "text": "орта және ірі",
-                "isCorrect": false
+                "isCorrect": true
             }
         ]
     },
@@ -1654,7 +1654,7 @@
         "options": [
             {
                 "text": "Р.Кантильон",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "text": "Ж.Б.Сэй",
@@ -1662,7 +1662,7 @@
             },
             {
                 "text": "А.Смит",
-                "isCorrect": true
+                "isCorrect": false
             },
             {
                 "text": "А.Тюрго",
@@ -1979,7 +1979,7 @@
         "options": [
             {
                 "text": "резюмеден",
-                "isCorrect": true
+                "isCorrect": false
             },
             {
                 "text": "жоспарлаудан",
@@ -1995,7 +1995,7 @@
             },
             {
                 "text": "барлығы дұрыс",
-                "isCorrect": false
+                "isCorrect": true
             }
         ]
     },
@@ -2237,7 +2237,7 @@
             },
             {
                 "text": "18 ғ",
-                "isCorrect": true
+                "isCorrect": false
             },
             {
                 "text": "17 ғ",
@@ -2245,7 +2245,7 @@
             },
             {
                 "text": "18 ғ. ортасы",
-                "isCorrect": false
+                "isCorrect": true
             }
         ]
     },
@@ -2279,7 +2279,7 @@
         "options": [
             {
                 "text": "Пул",
-                "isCorrect": true
+                "isCorrect": false
             },
             {
                 "text": "Қаржылық-өнеркәсіптік топ",
@@ -2291,7 +2291,7 @@
             },
             {
                 "text": "Консорциум",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "text": "Холдинг",
@@ -2779,11 +2779,11 @@
         "options": [
             {
                 "text": "оферта",
-                "isCorrect": true
+                "isCorrect": false
             },
             {
                 "text": "акцепт",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "text": "агент",
@@ -3279,11 +3279,11 @@
         "options": [
             {
                 "text": "барлық жауап дұрыс",
-                "isCorrect": true
+                "isCorrect": false
             },
             {
                 "text": "тұтынушылар тобы",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "text": "білім беру қызметтері",
@@ -4504,7 +4504,7 @@
         "options": [
             {
                 "text": "Р.Кантильон",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "text": "Ж.Б.Сэй",
@@ -4512,7 +4512,7 @@
             },
             {
                 "text": "А.Смит",
-                "isCorrect": true
+                "isCorrect": false
             },
             {
                 "text": "А.Тюрго",
@@ -4629,7 +4629,7 @@
         "options": [
             {
                 "text": "резюмеден",
-                "isCorrect": true
+                "isCorrect": false
             },
             {
                 "text": "жоспарлаудан",
@@ -4645,7 +4645,7 @@
             },
             {
                 "text": "барлығы дұрыс",
-                "isCorrect": false
+                "isCorrect": true
             }
         ]
     },
@@ -4812,7 +4812,7 @@
             },
             {
                 "text": "18 ғ",
-                "isCorrect": true
+                "isCorrect": false
             },
             {
                 "text": "17 ғ",
@@ -4820,7 +4820,7 @@
             },
             {
                 "text": "18 ғ. ортасы",
-                "isCorrect": false
+                "isCorrect": true
             }
         ]
     },
@@ -4854,7 +4854,7 @@
         "options": [
             {
                 "text": "Пул",
-                "isCorrect": true
+                "isCorrect": false
             },
             {
                 "text": "Қаржылық-өнеркәсіптік топ",
@@ -4866,7 +4866,7 @@
             },
             {
                 "text": "Консорциум",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "text": "Холдинг",
@@ -5179,11 +5179,11 @@
         "options": [
             {
                 "text": "оферта",
-                "isCorrect": true
+                "isCorrect": false
             },
             {
                 "text": "акцепт",
-                "isCorrect": false
+                "isCorrect": true
             },
             {
                 "text": "агент",
