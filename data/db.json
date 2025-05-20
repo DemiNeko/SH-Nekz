@@ -1251,7 +1251,28 @@
     },
     {
         "question": "Публицистикалық  стильдің  жазбаша  түрін көрсетіңіз \n<variant>Мақала\n<variant>Повесть \n<variant>Пьеса \n<variant>Лирика\n<variant>Поэма",
-        "options": []
+        "options": [
+            {
+                "text": "Мақала",
+                "isCorrect": true
+            },
+            {
+                "text": "Повесть",
+                "isCorrect": false
+            },
+            {
+                "text": "Пьеса",
+                "isCorrect": false
+            },
+            {
+                "text": "Лирика",
+                "isCorrect": false
+            },
+            {
+                "text": "Поэма",
+                "isCorrect": false
+            }
+        ]
     },
     {
         "question": "Стиль түрін анықтаңыз.  Зерттеу барысында қарастырылған мәселенің мәнін анықтайтын тәуелсіз ғылыми-зерттеу жұмысы",
