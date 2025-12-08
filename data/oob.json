@@ -1,0 +1,802 @@
+[
+    {
+        "question": "ОБП дегеніміз не?\n<variant> Объектіге бағытталған программалау\n<variant> Операциялық орта параметрі\n<variant> Ортақ өңдеу процедурасы\n<variant> Оптималды операциялық процестер\n<variant> Объект орнату протоколы",
+        "options": []
+    },
+    {
+        "question": "Класс дегеніміз не?\n<variant> Объектілердің үлгісі немесе шаблоны\n<variant> Бағдарламаның атқарушы бөлігі\n<variant> Массив түрі\n<variant> Құжат пішімі\n<variant> Файл құрылымы",
+        "options": []
+    },
+    {
+        "question": "Объект дегеніміз не?\n<variant> Кластың нақты данасы\n<variant> Айнымалы типі\n<variant> Мәлімет қоры\n<variant> Алгоритм\n<variant> Функция",
+        "options": []
+    },
+    {
+        "question": "Инкапсуляция дегеніміз не?\n<variant> Мәлімет пен әдістерді біріктіру және қорғау\n<variant> Класты мұрагерлеу процесі\n<variant> Полиморфизм түрі\n<variant> Конструкторды шақыру әдісі\n<variant> Объектіні көшіру тәсілі",
+        "options": []
+    },
+    {
+        "question": "Мұрагерлік (наследование) не үшін қолданылады?\n<variant> Кластың қасиеттері мен әдістерін басқа класқа беру үшін\n<variant> Айнымалыларды жасыру үшін\n<variant> Қате өңдеу үшін\n<variant> Объектілерді көшіру үшін\n<variant> Мәлімет енгізу үшін",
+        "options": []
+    },
+    {
+        "question": "Полиморфизм дегеніміз не?\n<variant> Бір интерфейстің бірнеше іске асырылуы\n<variant> Бірдей атаулы кластардың болуы\n<variant> Мәлімет типін өзгерту\n<variant> Жадты босату\n<variant> Айнымалыны инициализациялау",
+        "options": []
+    },
+    {
+        "question": "Конструктор дегеніміз не?\n<variant> Объектіні инициализациялайтын арнайы әдіс\n<variant> Мәліметті жоятын функция\n<variant> Жадты тазалау тәсілі\n<variant> Класты көшіретін оператор\n<variant> Объект атын өзгертетін әдіс",
+        "options": []
+    },
+    {
+        "question": "Деструктор не істейді?\n<variant> Объект жойылғанда ресурстарды босатады\n<variant> Объектіні құрады\n<variant> Класты кеңейтеді\n<variant> Мәліметті сақтайды\n<variant> Айнымалыны инициализациялайды",
+        "options": []
+    },
+    {
+        "question": "C++ тілінде классты қалай жариялайды?\n<variant> class MyClass { };\n<variant> object MyClass { };\n<variant> struct MyClass ( );\n<variant> define MyClass { };\n<variant> new class MyClass();",
+        "options": []
+    },
+    {
+        "question": "Конструктордың аты қандай болуы тиіс?\n<variant> Кластың атымен бірдей\n<variant> Кездейсоқ атау\n<variant> init()\n<variant> start()\n<variant> build()",
+        "options": []
+    },
+    {
+        "question": "Полиморфизм қай кезде іске асады?\n<variant> Бір атаулы әдістер әр түрлі кластарда әр түрлі жұмыс істегенде\n<variant> Барлық кластар бірдей әдістерді қолданғанда\n<variant> Объект жойылғанда\n<variant> Мәлімет енгізілгенде\n<variant> Айнымалы типі өзгергенде",
+        "options": []
+    },
+    {
+        "question": "Абстрактілі класс деген не?\n<variant> Кем дегенде бір виртуалды әдісі бар класс\n<variant> Мәлімет қоры\n<variant> Конструкторы жоқ класс\n<variant> Тек статикалық әдістері бар класс\n<variant> Жадсыз класс",
+        "options": []
+    },
+    {
+        "question": "Интерфейс нені анықтайды?\n<variant> Әдістер жиынтығын, бірақ олардың іске асырылуын емес\n<variant> Айнымалылар тізімін\n<variant> Нақты алгоритмді\n<variant> Мәліметтер құрылымын\n<variant> Конструкторларды",
+        "options": []
+    },
+    {
+        "question": "Мұрагерліктің түрлері қаншау?\n<variant> Бірлік және көптік\n<variant> Тек бірлік\n<variant> Тек көптік\n<variant> Жасырын\n<variant> Логикалық",
+        "options": []
+    },
+    {
+        "question": "Объектіні құру үшін қандай оператор қолданылады?\n<variant> new\n<variant> malloc\n<variant> create\n<variant> init\n<variant> build",
+        "options": []
+    },
+    {
+        "question": "Жою үшін қандай оператор пайдаланылады?\n<variant> delete\n<variant> free\n<variant> destroy\n<variant> remove\n<variant> nullify",
+        "options": []
+    },
+    {
+        "question": "this көрсеткіші не үшін керек?\n<variant> Ағымдағы объектіні көрсету үшін\n<variant> Сыртқы класты шақыру үшін\n<variant> Мұрагер классты табу үшін\n<variant> Массив индекстерін көрсету үшін\n<variant> Статикалық әдіске сілтеу үшін",
+        "options": []
+    },
+    {
+        "question": "Статикалық әдіс дегеніміз не?\n<variant> Классқа тиесілі, бірақ нақты объектіге тәуелсіз әдіс\n<variant> Тек бір объектіге арналған\n<variant> Жасыру әдісі\n<variant> Тұрақсыз әдіс\n<variant> Динамикалық жадпен жұмыс істейді",
+        "options": []
+    },
+    {
+        "question": "Объектілердің өзара әрекеттесуі қалай аталады?\n<variant> Хабар алмасу (message passing)\n<variant> Инкапсуляция\n<variant> Жад бөлу\n<variant> Қате өңдеу\n<variant> Кодтау",
+        "options": []
+    },
+    {
+        "question": "UML диаграммасы не үшін қажет?\n<variant> Жүйенің құрылымын графикалық түрде көрсету үшін\n<variant> Мәлімет енгізу үшін\n<variant> Бағдарламаны орындау үшін\n<variant> Жад бөлу үшін\n<variant> Тест жазу үшін",
+        "options": []
+    },
+    {
+        "question": "Конструкторды артық жүктеу (overloading) нені білдіреді?\n<variant> Бір класта бірнеше конструктордың болуы\n<variant> Бірдей атаулы кластар\n<variant> Бір әдісті қайта анықтау\n<variant> Айнымалы типін өзгерту\n<variant> Класс көшіру",
+        "options": []
+    },
+    {
+        "question": "Әдісті қайта анықтау (overriding) дегеніміз не?\n<variant> Мұрагер класта ата-ананың әдісін қайта жазу\n<variant> Бірдей атаулы әдістер қосу\n<variant> Айнымалы көшіру\n<variant> Қате өңдеу\n<variant> Жаңа класс құру",
+        "options": []
+    },
+    {
+        "question": "Көптік мұрагерлік дегеніміз не?\n<variant> Бір класс бірнеше кластан қасиет алу\n<variant> Бір объект бірнеше рет құрылу\n<variant> Бір әдісті екі рет қолдану\n<variant> Мәлімет көшіру\n<variant> Код қайталау",
+        "options": []
+    },
+    {
+        "question": "Виртуалды деструктор не үшін керек?\n<variant> Мұрагер класстарды дұрыс жою үшін\n<variant> Конструкторды шақыру үшін\n<variant> Мәліметті сақтау үшін\n<variant> Жад бөлу үшін\n<variant> Көшіру үшін",
+        "options": []
+    },
+    {
+        "question": "Объектіні көшіру қандай функция арқылы жүреді?\n<variant> Көшіру конструкторы\n<variant> Деструктор\n<variant> main\n<variant> virtual функция\n<variant> copy() әдісі",
+        "options": []
+    },
+    {
+        "question": "ОБП принциптерінің саны қанша?\n<variant> Үшеу (инкапсуляция, мұрагерлік, полиморфизм)\n<variant> Екеу\n<variant> Төртеу\n<variant> Бесеу\n<variant> Біреу",
+        "options": []
+    },
+    {
+        "question": "Абстракция дегеніміз не?\n<variant> Маңызды қасиеттерді бөліп көрсету\n<variant> Мәліметті жасыру\n<variant> Объект құру\n<variant> Полиморфизм\n<variant> Кодтау",
+        "options": []
+    },
+    {
+        "question": "\"protected\" модификаторы қай тілдерде бар?\n<variant> C++, Java, C#\n<variant> Python\n<variant> Pascal\n<variant> Basic\n<variant> HTML",
+        "options": []
+    },
+    {
+        "question": "Python тілінде класс қалай жарияланады?\n<variant> class MyClass:\n<variant> define MyClass\n<variant> object MyClass()\n<variant> MyClass = class()\n<variant> new MyClass:",
+        "options": []
+    },
+    {
+        "question": "Java тілінде мұрагерлік қалай жазылады?\n<variant> class B extends A\n<variant> class B inherits A\n<variant> class B : A\n<variant> inherit B from A\n<variant> using A in B",
+        "options": []
+    },
+    {
+        "question": "C# тілінде интерфейс қалай анықталады?\n<variant> interface IMyInterface { }\n<variant> class Interface { }\n<variant> struct IMyInterface()\n<variant> define interface()\n<variant> new Interface { }",
+        "options": []
+    },
+    {
+        "question": "Конструктор қай кезде шақырылады?\n<variant> Объект құрылған кезде\n<variant> Бағдарлама басталғанда\n<variant> Деструктордан кейін\n<variant> Айнымалы жарияланғанда\n<variant> Файл ашылғанда",
+        "options": []
+    },
+    {
+        "question": "\"static\" айнымалының ерекшелігі қандай?\n<variant> Барлық объектілерге ортақ\n<variant> Әр объектіге жеке\n<variant> Мәліметті жасырады\n<variant> Конструктормен жойылады\n<variant> Көшірілмейді",
+        "options": []
+    },
+    {
+        "question": "Деструктордың аты қандай белгімен басталады (C++)?\n<variant> Тильда (~)\n<variant> Нүкте (.)\n<variant> Үтір (,)\n<variant> Қос нүкте (::)\n<variant> Жұлдызша (*)",
+        "options": []
+    },
+    {
+        "question": "\"public static void main()\" не білдіреді?\n<variant> Бағдарламаның кіру нүктесі\n<variant> Класс сипаттамасы\n<variant> Айнымалы жариялау\n<variant> Объект анықтау\n<variant> Тест әдісі",
+        "options": []
+    },
+    {
+        "question": "Класс ішінде әдіс пен мәліметті жасыру неге жатады?\n<variant> Инкапсуляция\n<variant> Полиморфизм\n<variant> Мұрагерлік\n<variant> Абстракция\n<variant> Деструкция",
+        "options": []
+    },
+    {
+        "question": "Объект пен класс байланысы қандай?\n<variant> Объект --- кластың данасы\n<variant> Класс --- объекттің данасы\n<variant> Екеуі тең\n<variant> Объект --- әдіс\n<variant> Класс --- айнымалы",
+        "options": []
+    },
+    {
+        "question": "Абстрактілі әдіс дегеніміз не?\n<variant> Іске асырылуы жоқ әдіс\n<variant> Жасырын әдіс\n<variant> Қате өңдеу әдісі\n<variant> Конструктор\n<variant> Статикалық функция",
+        "options": []
+    },
+    {
+        "question": "Полиморфизм мысалы қай жерде қолданылады?\n<variant> Бір атаулы әдіс әр түрлі кластарда әр түрлі жұмыс істегенде\n<variant> Мәліметті жасыруда\n<variant> Конструкторды шақырғанда\n<variant> Айнымалы жариялауда\n<variant> Файл ашуда",
+        "options": []
+    },
+    {
+        "question": "Класты кеңейту дегеніміз не?\n<variant> Мұрагерлік\n<variant> Инкапсуляция\n<variant> Полиморфизм\n<variant> Абстракция\n<variant> Интерфейс",
+        "options": []
+    },
+    {
+        "question": "ОБП-да \"composition\" дегеніміз не?\n<variant> Бір объект ішінде басқа объектіні қолдану\n<variant> Мұрагерлікті жою\n<variant> Айнымалыны жариялау\n<variant> Полиморфизм\n<variant> Конструктор",
+        "options": []
+    },
+    {
+        "question": "Көптүрлілік (полиморфизм) қай механизм арқылы іске асады?\n<variant> Виртуалды функциялар\n<variant> Конструктор\n<variant> Инкапсуляция\n<variant> Копирование\n<variant> Статикалық әдіс",
+        "options": []
+    },
+    {
+        "question": "ОБП артықшылықтарына не жатады?\n<variant> Кодты қайта пайдалану, икемділік, қолжетімділік\n<variant> Күрделілік, тәуелділік\n<variant> Қате көбейту\n<variant> Жады көп қолдану\n<variant> Код қайталау",
+        "options": []
+    },
+    {
+        "question": "Кластың мүшелері неге бөлінеді?\n<variant> Деректер (fields) және әдістер (methods)\n<variant> Айнымалылар мен функциялар\n<variant> Кестелер мен бағандар\n<variant> Файлдар мен каталогтар\n<variant> Массивтер мен циклдар",
+        "options": []
+    },
+    {
+        "question": "Конструктор не үшін қолданылады?\n<variant> Объектіні бастапқы күйге келтіру үшін\n<variant> Объектіні жою үшін\n<variant> Мәліметті сақтау үшін\n<variant> Қате өңдеу үшін\n<variant> Файл ашу үшін",
+        "options": []
+    },
+    {
+        "question": "Деструктор қай кезде шақырылады?\n<variant> Объект жойылғанда\n<variant> Объект құрылғанда\n<variant> Конструктор шақырылғанда\n<variant> Бағдарлама басталғанда\n<variant> Класс жарияланғанда",
+        "options": []
+    },
+    {
+        "question": "ОБП-ның негізгі мақсаты қандай?\n<variant> Бағдарламаны модульдік және қайта пайдалануға ыңғайлы ету\n<variant> Кодты көбейту\n<variant> Есептеу жылдамдығын төмендету\n<variant> Мәліметті жасыру\n<variant> Айнымалыны көбейту",
+        "options": []
+    },
+    {
+        "question": "Абстракция не үшін керек?\n<variant> Маңызды қасиеттерге назар аударып, артықтарын жасыру үшін\n<variant> Барлық мәліметті көрсету үшін\n<variant> Мәліметті көшіру үшін\n<variant> Кодың көлемін арттыру үшін\n<variant> Объектіні жою үшін",
+        "options": []
+    },
+    {
+        "question": "\"private\" мүшелерге қалай қол жеткізуге болады?\n<variant> Тек класс ішінен\n<variant> Мұрагер класстардан\n<variant> Барлық кластардан\n<variant> Басқа модульдерден\n<variant> Интерфейстен",
+        "options": []
+    },
+    {
+        "question": "Кластың \"қасиеттері\" нені білдіреді?\n<variant> Мәлімет өрістері\n<variant> Әдістер\n<variant> Объектілер\n<variant> Конструкторлар\n<variant> Циклдер",
+        "options": []
+    },
+    {
+        "question": "Кластың \"мінез-құлқы\" нені сипаттайды?\n<variant> Әдістер\n<variant> Мәлімет өрістері\n<variant> Конструкторлар\n<variant> Копиялар\n<variant> Объектілер",
+        "options": []
+    },
+    {
+        "question": "\"new\" операторы не істейді?\n<variant> Объектіге жад бөледі\n<variant> Объектіні жояды\n<variant> Айнымалыны жариялайды\n<variant> Класты жасырады\n<variant> Конструкторды жояды",
+        "options": []
+    },
+    {
+        "question": "Кластың шаблоны қалай аталады?\n<variant> Template\n<variant> Model\n<variant> Scheme\n<variant> Struct\n<variant> Plan",
+        "options": []
+    },
+    {
+        "question": "Template класстары қай тілдерде бар?\n<variant> C++, Java (generic түрінде)\n<variant> Pascal\n<variant> HTML\n<variant> Python\n<variant> SQL",
+        "options": []
+    },
+    {
+        "question": "\"this\" көрсеткіші неге қолданылады?\n<variant> Ағымдағы объектіні көрсетуге\n<variant> Мұрагерлікке\n<variant> Конструкторды шақыруға\n<variant> Виртуалды әдіске\n<variant> Копия жасауға",
+        "options": []
+    },
+    {
+        "question": "Объектілер не арқылы өзара әрекеттеседі?\n<variant> Хабарлар (messages)\n<variant> Массивтер\n<variant> Айнымалылар\n<variant> Кестелер\n<variant> Қайталанулар",
+        "options": []
+    },
+    {
+        "question": "Класс мүшелерін қай жерде жариялайды?\n<variant> Кластың ішінде\n<variant> Main функциясында\n<variant> Файл басында\n<variant> Header сыртында\n<variant> Функция ішінде",
+        "options": []
+    },
+    {
+        "question": "Абстрактілі әдіс қай тілдерде кездеседі?\n<variant> Java, C#, Python\n<variant> C\n<variant> HTML\n<variant> Pascal\n<variant> SQL",
+        "options": []
+    },
+    {
+        "question": "Конструктор параметрсіз болғанда не деп аталады?\n<variant> Әдепкі (default) конструктор\n<variant> Негізгі\n<variant> Копия\n<variant> Динамикалық\n<variant> Виртуалды",
+        "options": []
+    },
+    {
+        "question": "Динамикалық полиморфизм не арқылы жүзеге асады?\n<variant> Виртуалды функциялар\n<variant> Макростар\n<variant> Массивтер\n<variant> Конструкторлар\n<variant> Тұрақтылар",
+        "options": []
+    },
+    {
+        "question": "Класс пен структура айырмашылығы неде (C++)?\n<variant> Әдепкіде класс private, структура public\n<variant> Структура virtual бола алмайды\n<variant> Класс мәлімет сақтамайды\n<variant> Структура тек әдіс сақтайды\n<variant> Айырмашылығы жоқ",
+        "options": []
+    },
+    {
+        "question": "\"getter\" және \"setter\" әдістері не үшін керек?\n<variant> Мәліметті оқу және өзгерту үшін\n<variant> Объектіні жою үшін\n<variant> Конструкторды көшіру үшін\n<variant> Қате өңдеу үшін\n<variant> Интерфейсті кеңейту үшін",
+        "options": []
+    },
+    {
+        "question": "Полиморфизмнің артықшылығы неде?\n<variant> Кодты қайта қолдануға мүмкіндік береді\n<variant> Бағдарламаны баяулатады\n<variant> Мәліметті жасырады\n<variant> Айнымалы санын арттырады\n<variant> Компиляцияны тоқтатады",
+        "options": []
+    },
+    {
+        "question": "Инкапсуляция не үшін қолданылады?\n<variant> Мәліметті қорғау және жасыру үшін\n<variant> Мәліметті көшіру үшін\n<variant> Файл ашу үшін\n<variant> Айнымалы жариялау үшін\n<variant> Бағдарлама тоқтату үшін",
+        "options": []
+    },
+    {
+        "question": "Статикалық әдістер қандай қасиетке ие?\n<variant> Объектісіз шақырылады\n<variant> Тек мұрагерлер арқылы\n<variant> Айнымалы жасырады\n<variant> Конструкторға тәуелді\n<variant> Абстрактілі",
+        "options": []
+    },
+    {
+        "question": "Объект жойылғанда не орындалады?\n<variant> Деструктор\n<variant> Конструктор\n<variant> Интерфейс\n<variant> Getter\n<variant> Статикалық әдіс",
+        "options": []
+    },
+    {
+        "question": "Объектінің күйі дегеніміз не?\n<variant> Мәлімет өрістерінің мәндері\n<variant> Кластың аты\n<variant> Әдістер жиыны\n<variant> Копия саны\n<variant> Функция түрі",
+        "options": []
+    },
+    {
+        "question": "Класс диаграммасы не көрсетеді?\n<variant> Кластар мен олардың байланысын\n<variant> Бағдарламаның нәтижесін\n<variant> Жады көлемін\n<variant> Кестелер тізімін\n<variant> Айнымалы санын",
+        "options": []
+    },
+    {
+        "question": "Абстракция мысалы қандай?\n<variant> \"Студент\" класы тек маңызды қасиеттермен сипатталады\n<variant> Барлық мәліметтер толық ашылады\n<variant> Конструктор қолданылады\n<variant> Объект жойылады\n<variant> Полиморфизм іске асады",
+        "options": []
+    },
+    {
+        "question": "Конструктор мен әдістің айырмашылығы неде?\n<variant> Конструктор мән қайтармайды\n<variant> Екеуі де void\n<variant> Конструктор әрқашан static\n<variant> Әдіс жад бөледі\n<variant> Конструктор тек virtual",
+        "options": []
+    },
+    {
+        "question": "Қай модификатор мұрагер класқа қолжетімді?\n<variant> protected\n<variant> private\n<variant> public\n<variant> internal\n<variant> global",
+        "options": []
+    },
+    {
+        "question": "\"extends\" кілт сөзі қай тілге тән?\n<variant> Java\n<variant> C++\n<variant> Python\n<variant> C#\n<variant> Kotlin",
+        "options": []
+    },
+    {
+        "question": "\"override\" кілт сөзі не үшін қажет?\n<variant> Мұрагер класта ата-ананың әдісін қайта жазу үшін\n<variant> Айнымалы жариялау\n<variant> Мәліметті жасыру\n<variant> Конструкторды жою\n<variant> Қате шығару",
+        "options": []
+    },
+    {
+        "question": "C++ тілінде мұрагерлік белгілері қалай жазылады?\n<variant> class B : public A\n<variant> class B extends A\n<variant> class B inherits A\n<variant> class B uses A\n<variant> class B => A",
+        "options": []
+    },
+    {
+        "question": "Виртуалды функция не үшін қолданылады?\n<variant> Полиморфизмді жүзеге асыру үшін\n<variant> Объектіні жою үшін\n<variant> Айнымалы жариялау үшін\n<variant> Мәліметті сақтау үшін\n<variant> Конструкторды жасыру үшін",
+        "options": []
+    },
+    {
+        "question": "ОБП артықшылығына не жатады?\n<variant> Қайта пайдалану, сенімділік, құрылымдылық\n<variant> Кодтың күрделенуі\n<variant> Модульдердің азаюы\n<variant> Тестілеудің қиындауы\n<variant> Жадының артық қолданылуы",
+        "options": []
+    },
+    {
+        "question": "\"interface\" пен \"abstract class\" айырмашылығы неде?\n<variant> Интерфейсте тек әдіс сипаттамалары болады\n<variant> Интерфейс конструктор сақтайды\n<variant> Абстракт класс тек деректерді сақтайды\n<variant> Интерфейс тек статикалық әдіс\n<variant> Екеуі бірдей",
+        "options": []
+    },
+    {
+        "question": "\"public\", \"private\", \"protected\" --- бұл не?\n<variant> Қол жетімділік модификаторлары\n<variant> Айнымалы типтері\n<variant> Әдіс түрлері\n<variant> Функция атаулары\n<variant> Деструкторлар",
+        "options": []
+    },
+    {
+        "question": "ОБП терминінде \"instance\" нені білдіреді?\n<variant> Кластың нақты данасы\n<variant> Кластың шаблоны\n<variant> Әдіс\n<variant> Айнымалы типі\n<variant> Интерфейс",
+        "options": []
+    },
+    {
+        "question": "Объектілер арасында байланыс қалай аталады?\n<variant> Ассоциация\n<variant> Инкапсуляция\n<variant> Абстракция\n<variant> Полиморфизм\n<variant> Мұрагерлік",
+        "options": []
+    },
+    {
+        "question": "UML дегеніміз не?\n<variant> Unified Modeling Language\n<variant> User Machine Language\n<variant> Universal Macro Logic\n<variant> Unit Modeling Layer\n<variant> Unified Main Library",
+        "options": []
+    },
+    {
+        "question": "\"public void print()\" әдісі не істей алады?\n<variant> Мәліметті экранға шығару\n<variant> Объектіні көшіру\n<variant> Айнымалыны жою\n<variant> Конструктор шақыру\n<variant> Класты кеңейту",
+        "options": []
+    },
+    {
+        "question": "\"static int count\" өрісі нені білдіреді?\n<variant> Барлық объектілерге ортақ санауыш\n<variant> Әр объектіге жеке айнымалы\n<variant> Класс аты\n<variant> Конструктор параметрі\n<variant> Абстракт әдіс",
+        "options": []
+    },
+    {
+        "question": "\"object-oriented design\" неге бағытталған?\n<variant> Объектілер мен олардың өзара әрекетіне\n<variant> Мәлімет базасына\n<variant> Циклдерге\n<variant> Айнымалы типтерге\n<variant> Файл құрылымына",
+        "options": []
+    },
+    {
+        "question": "\"Encapsulation\" сөзінің тікелей аудармасы қандай?\n<variant> Қаптау, жабу\n<variant> Көшіру\n<variant> Көрсету\n<variant> Кеңейту\n<variant> Талдау",
+        "options": []
+    },
+    {
+        "question": "\"base class\" дегеніміз не?\n<variant> Мұрагерліктің бастапқы класы\n<variant> Объект\n<variant> Әдіс\n<variant> Интерфейс\n<variant> Модуль",
+        "options": []
+    },
+    {
+        "question": "\"derived class\" дегеніміз не?\n<variant> Мұрагер класс\n<variant> Бастапқы класс\n<variant> Абстракт класс\n<variant> Интерфейс\n<variant> Негізгі модуль",
+        "options": []
+    },
+    {
+        "question": "Объект құрудың дұрыс тәсілі (Python):\n<variant> obj = MyClass()\n<variant> new obj MyClass\n<variant> create MyClass obj\n<variant> MyClass obj()\n<variant> object = new MyClass",
+        "options": []
+    },
+    {
+        "question": "\"init\" әдісі Python тілінде не істейді?\n<variant> Конструктор рөлін атқарады\n<variant> Объектіні жояды\n<variant> Айнымалы жариялайды\n<variant> Мәлімет сақтайды\n<variant> Класс атын қайтарады",
+        "options": []
+    },
+    {
+        "question": "ОБП-ның басты жұмыс істеу принципі?\n<variant> Мәлімет пен әрекетті бір бүтінге біріктіру\n<variant> Айнымалыларды бөлу\n<variant> Мәліметті көбейту\n<variant> Файлдарды біріктіру\n<variant> Кодты жасыру",
+        "options": []
+    },
+    {
+        "question": "Массив дегеніміз не?\n<variant> Бір типтегі элементтердің жиыны\n<variant> Кездейсоқ сандар жиыны\n<variant> Әдістердің тізімі\n<variant> Айнымалылардың қосындысы\n<variant> Файл құрылымы",
+        "options": []
+    },
+    {
+        "question": "C# тілінде массив қалай жарияланады?\n<variant> int[] arr = new int[5];\n<variant> int arr(5);\n<variant> array arr = int[5];\n<variant> new array<int>(5);\n<variant> var arr;",
+        "options": []
+    },
+    {
+        "question": "Массив индексі неден басталады?\n<variant> 0\n<variant> 1\n<variant> -1\n<variant> 2\n<variant> 10",
+        "options": []
+    },
+    {
+        "question": "Екі өлшемді массивті қалай жариялауға болады?\n<variant> int[,] a = new int[3,4];\n<variant> int a(3,4);\n<variant> array<int>(3,4);\n<variant> int[][] a = { };\n<variant> var a = list();",
+        "options": []
+    },
+    {
+        "question": "Массивтің ұзындығын қалай табамыз (C#)?\n<variant> arr.Length\n<variant> len(arr)\n<variant> size(arr)\n<variant> arr.size\n<variant> arr.count",
+        "options": []
+    },
+    {
+        "question": "Бір өлшемді массив элементіне қатынау үлгісі (C#):\n<variant> arr[i]\n<variant> arr(i)\n<variant> get(arr,i)\n<variant> arr->i\n<variant> arr.value(i)",
+        "options": []
+    },
+    {
+        "question": "Jagged массив дегеніміз не?\n<variant> Массивтердің массиві\n<variant> Екі өлшемді массив\n<variant> Кесте\n<variant> Вектор\n<variant> Матрица",
+        "options": []
+    },
+    {
+        "question": "Массив элементтерін шығару үшін қандай цикл қолданылады?\n<variant> foreach\n<variant> while\n<variant> do...while\n<variant> if\n<variant> switch",
+        "options": []
+    },
+    {
+        "question": "Массивті инициализациялау үлгісі (C#):\n<variant> int[] n = {1,2,3,4};\n<variant> int n = [1,2,3,4];\n<variant> array<int>(1,2,3);\n<variant> new arr(1,2,3);\n<variant> arr={};",
+        "options": []
+    },
+    {
+        "question": "Екі өлшемді массивтің элементіне қатынау тәсілі:\n<variant> a[i,j]\n<variant> a[i][j]\n<variant> a(i,j)\n<variant> get(a,i,j)\n<variant> a→i,j",
+        "options": []
+    },
+    {
+        "question": "Массивті сұрыптау әдісі (C#):\n<variant> Array.Sort(arr);\n<variant> arr.sort();\n<variant> sort(arr);\n<variant> arr=arr.OrderBy();\n<variant> Sorted(arr);",
+        "options": []
+    },
+    {
+        "question": "Массив элементін іздеу (C#):\n<variant> Array.IndexOf(arr, value);\n<variant> arr.Find(value);\n<variant> arr.get(value);\n<variant> index(arr, value) ;\n<variant> arr.search();",
+        "options": []
+    },
+    {
+        "question": "Көпөлшемді массив түрі:\n<variant> int[,,] m;\n<variant> int[][] m;\n<variant> array<int,3>;\n<variant> var m=new();\n<variant> m(int,3);",
+        "options": []
+    },
+    {
+        "question": "\"Array.Reverse()\" не істейді (C#)?\n<variant> Элементтер ретін кері аударады\n<variant> Элементтерді жояды\n<variant> Массивті кеңейтеді\n<variant> Индексті өзгертеді\n<variant> Элемент қосады",
+        "options": []
+    },
+    {
+        "question": "\"Array.Clear()\" не істейді (C#)?\n<variant> Массив элементтерін тазалайды\n<variant> Массивті сұрыптайды\n<variant> Элемент қосады\n<variant> Индексті бастайды\n<variant> Элементтерді ауыстырады",
+        "options": []
+    },
+    {
+        "question": "Жол типі қалай жазылады (C#)?\n<variant> string\n<variant> text\n<variant> char[]\n<variant> word\n<variant> str",
+        "options": []
+    },
+    {
+        "question": "Жолдың ұзындығын табу (C#):\n<variant> s.Length\n<variant> len(s)\n<variant> s.count()\n<variant> size(s)\n<variant> s.len",
+        "options": []
+    },
+    {
+        "question": "Барлық әріптерді үлкенге айналдыру (C#):\n<variant> s.ToUpper()\n<variant> s.upper()\n<variant> s.ToBig()\n<variant> s.Caps()\n<variant> s.Max()",
+        "options": []
+    },
+    {
+        "question": "Барлық әріптерді кішірейту (C#):\n<variant> s.ToLower()\n<variant> s.Min()\n<variant> s.Small()\n<variant> s.Low()\n<variant> s.Capitalize()",
+        "options": []
+    },
+    {
+        "question": "Жолды бөлу әдісі (C#):\n<variant> s.Split(' ')\n<variant> s.Cut()\n<variant> s.Divide()\n<variant> s.ToArray()\n<variant> s.Splitter()",
+        "options": []
+    },
+    {
+        "question": "Жолдың ішінен іздеу әдісі (C#):\n<variant> s.IndexOf(\"abc\")\n<variant> s.Find(\"abc\")\n<variant> s.Search(\"abc\")\n<variant> s.locate(\"abc\")\n<variant> s.Pos(\"abc\")",
+        "options": []
+    },
+    {
+        "question": "Жолдарды салыстыру әдісі (C#):\n<variant> string.Compare(s1, s2)\n<variant> compare(a,b)\n<variant> a==b\n<variant> equal(a,b)\n<variant> string.Equal(a,b)",
+        "options": []
+    },
+    {
+        "question": "Жолдың ішкі бөлігін алу (C#):\n<variant> s.Substring(2,3)\n<variant> s.Sub(2,3)\n<variant> s.Part(2,3)\n<variant> s.Get(2,3)\n<variant> s.Range(2,3)",
+        "options": []
+    },
+    {
+        "question": "Жолдың бос не бос еместігін тексеру (C#):\n<variant> string.IsNullOrEmpty(s)\n<variant> s==\"\"\n<variant> s.IsEmpty()\n<variant> s.Empty()\n<variant> s.Null()",
+        "options": []
+    },
+    {
+        "question": "StringBuilder-де жол қосу әдісі (C#):\n<variant> sb.Append(\"text\");\n<variant> sb.Add();\n<variant> sb.InsertText();\n<variant> sb.Put();\n<variant> sb.Join();",
+        "options": []
+    },
+    {
+        "question": "Жолды Trim() не істейді (C#)?\n<variant> Басында және соңындағы бос орындарды жояды\n<variant> Әріптерді өзгертеді\n<variant> Барлық бос орындарды жояды\n<variant> Төменге түрлендіреді\n<variant> Теріс мән жояды",
+        "options": []
+    },
+    {
+        "question": "Replace() не істейді (C#)?\n<variant> Белгіленген бөлікті басқаға ауыстырады\n<variant> Жолды қысқартады\n<variant> Символ қосады\n<variant> Жолды жояды\n<variant> Бөледі",
+        "options": []
+    },
+    {
+        "question": "Join() әдісі не істейді (C#)?\n<variant> Массив элементтерін бір жолға біріктіреді\n<variant> Массивті жояды\n<variant> Жолды бөледі\n<variant> Қосады\n<variant> Іздейді",
+        "options": []
+    },
+    {
+        "question": "Мәлімет енгізу операторы (C#):\n<variant> Console.ReadLine()\n<variant> Console.Input()\n<variant> Read()\n<variant> cin>>\n<variant> scan()",
+        "options": []
+    },
+    {
+        "question": "Мәлімет шығару операторы (C#):\n<variant> Console.WriteLine()\n<variant> Console.Out()\n<variant> print()\n<variant> write()\n<variant> Console.Put()",
+        "options": []
+    },
+    {
+        "question": "Write және WriteLine айырмашылығы неде (C#)?\n<variant> WriteLine жол соңына жаңа жол қосады\n<variant> Write жылдамырақ\n<variant> WriteLine бос орын қалдырады\n<variant> Write буферді тазалайды\n<variant> Айырмашылығы жоқ",
+        "options": []
+    },
+    {
+        "question": "Файлдан оқу үшін класс (C#):\n<variant> StreamReader\n<variant> FileReader\n<variant> ReadFile\n<variant> Scanner\n<variant> Reader",
+        "options": []
+    },
+    {
+        "question": "Файлға жазу үшін класс (C#):\n<variant> StreamWriter\n<variant> FileWriter\n<variant> WriteFile\n<variant> ConsoleWriter\n<variant> FileOut",
+        "options": []
+    },
+    {
+        "question": "Файл ашу мысалы (C#):\n<variant> StreamReader sr = new StreamReader(\"data.txt\");\n<variant> open(\"data.txt\");\n<variant> file.read(\"data.txt\");\n<variant> data.Open();\n<variant> Read(\"data.txt\");",
+        "options": []
+    },
+    {
+        "question": "Файлды жабу үшін (C#):\n<variant> sr.Close();\n<variant> sr.Stop();\n<variant> sr.End();\n<variant> sr.Dispose();\n<variant> sr.Exit();",
+        "options": []
+    },
+    {
+        "question": "Файл бар-жоғын тексеру (C#):\n<variant> File.Exists(\"data.txt\")\n<variant> File.Check()\n<variant> Exists(\"file\")\n<variant> file.Available()\n<variant> FindFile()",
+        "options": []
+    },
+    {
+        "question": "Файлды көшіру (C#):\n<variant> File.Copy(\"a.txt\",\"b.txt\")\n<variant> CopyFile()\n<variant> file.move()\n<variant> File.Mirror()\n<variant> Copy(\"a\",\"b\");",
+        "options": []
+    },
+    {
+        "question": "Файлды жою (C#):\n<variant> File.Delete(\"data.txt\")\n<variant> File.Remove()\n<variant> File.Drop()\n<variant> DeleteFile()\n<variant> file.Erase()",
+        "options": []
+    },
+    {
+        "question": "Каталог жасау (C#):\n<variant> Directory.CreateDirectory(\"test\")\n<variant> Folder.New()\n<variant> Dir.Make()\n<variant> File.Mkdir()\n<variant> Folder.Create()",
+        "options": []
+    },
+    {
+        "question": "Каталогтағы файлдарды шығару (C#):\n<variant> Directory.GetFiles(\"path\")\n<variant> Dir.Show()\n<variant> File.List()\n<variant> Folder.Read()\n<variant> DirInfo()",
+        "options": []
+    },
+    {
+        "question": "Console.Read() не қайтарады (C#)?\n<variant> Бір символдың ASCII коды\n<variant> Бір жол\n<variant> Бір бүтін сан\n<variant> Бір әріп\n<variant> Бір файл",
+        "options": []
+    },
+    {
+        "question": "Console.Clear() не істейді (C#)?\n<variant> Консоль экранын тазалайды\n<variant> Мәлімет жояды\n<variant> Айнымалыларды нөлдейді\n<variant> Бағдарламаны тоқтатады\n<variant> Курсор орнын өзгертеді",
+        "options": []
+    },
+    {
+        "question": "Console.Title қасиеті не істейді (C#)?\n<variant> Терезе атауын орнатады\n<variant> Мәлімет шығарады\n<variant> Файл ашуға жауап береді\n<variant> Түсті өзгертеді\n<variant> Экранды үлкейтеді",
+        "options": []
+    },
+    {
+        "question": "Класс дегеніміз не?\n<variant> Объектілерді сипаттайтын үлгі\n<variant> Мәліметтер қоры\n<variant> Функция\n<variant> Массив\n<variant> Файл",
+        "options": []
+    },
+    {
+        "question": "Объект дегеніміз не?\n<variant> Кластың экземпляры\n<variant> Айнымалы\n<variant> Әдіс\n<variant> Конструктор\n<variant> Модуль",
+        "options": []
+    },
+    {
+        "question": "Класты жариялау синтаксисі (C#):\n<variant> class MyClass { }\n<variant> new MyClass()\n<variant> define MyClass()\n<variant> object MyClass\n<variant> create class",
+        "options": []
+    },
+    {
+        "question": "Объект жасау тәсілі (C#):\n<variant> MyClass obj = new MyClass();\n<variant> obj = MyClass();\n<variant> object MyClass();\n<variant> MyClass.create();\n<variant> class obj();",
+        "options": []
+    },
+    {
+        "question": "Кластың мүшелері не деп аталады?\n<variant> Өрістер (field) және әдістер (method)\n<variant> Айнымалы мен массив\n<variant> Функция мен цикл\n<variant> Константа мен шарт\n<variant> Интерфейс пен модуль",
+        "options": []
+    },
+    {
+        "question": "Конструктордың аты неден ерекшеленеді?\n<variant> Класс атымен бірдей\n<variant> Кез келген ат болуы мүмкін\n<variant> void типті\n<variant> Static болуы тиіс\n<variant> Аргументсіз",
+        "options": []
+    },
+    {
+        "question": "Конструкторды қалай жариялайды (C#)?\n<variant> public MyClass() { }\n<variant> void MyClass() { }\n<variant> MyClass(void)\n\n<variant> new MyClass()\n<variant> init MyClass()",
+        "options": []
+    },
+    {
+        "question": "Деструктор не үшін керек?\n<variant> Ресурстарды босату үшін\n<variant> Объектіні жасау\n<variant> Массивті жою\n<variant> Жадыны кеңейту\n<variant> Файл ашу",
+        "options": []
+    },
+    {
+        "question": "Деструктор синтаксисі:\n<variant> ~MyClass() { }\n<variant> void ~MyClass() { }\n<variant> del MyClass()\n<variant> free MyClass()\n<variant> delete()",
+        "options": []
+    },
+    {
+        "question": "\"base\" кілт сөзі не үшін қолданылады?\n<variant> Туынды кластан базалыққа қатынау\n<variant> Жаңа объект құру\n<variant> Объектіні көшіру\n<variant> Қате өңдеу\n<variant> Есептеу",
+        "options": []
+    },
+    {
+        "question": "Абстракт кластар не үшін керек?\n<variant> Мұрагерлерге ортақ интерфейс анықтау\n<variant> Деректер сақтау\n<variant> Объектілерді тікелей жасау\n<variant> Массивтер құру\n<variant> Әдістерді сұрыптау",
+        "options": []
+    },
+    {
+        "question": "Абстракт классты жариялау:\n<variant> abstract class Shape { }\n<variant> class abstract Shape { }\n<variant> virtual class Shape\n<variant> Shape() { }\n<variant> abstracted Shape",
+        "options": []
+    },
+    {
+        "question": "Интерфейс дегеніміз не?\n<variant> Тек әдістер сипаттамасын қамтитын тип\n<variant> Класс экземпляры\n<variant> Деректер қоры\n<variant> Конструктор\n<variant> Модуль",
+        "options": []
+    },
+    {
+        "question": "Интерфейсті жариялау:\n<variant> interface IShape { void Draw(); }\n<variant> class IShape()\n<variant> abstract interface()\n<variant> void IShape()\n<variant> public interface();",
+        "options": []
+    },
+    {
+        "question": "Көп мұрагерлікке қалай қол жеткізіледі?\n<variant> Бірнеше интерфейстер арқылы\n<variant> Бір базалық класс арқылы\n<variant> Бірнеше класты мұралау\n<variant> Абстракт класс\n<variant> Static класспен",
+        "options": []
+    },
+    {
+        "question": "C# графикалық интерфейсі қандай кітапханамен құрылады?\n<variant> Windows Forms\n<variant> ConsoleApp\n<variant> System.IO\n<variant> LINQ\n<variant> Thread",
+        "options": []
+    },
+    {
+        "question": "Form дегеніміз не?\n<variant> Терезе немесе экрандағы негізгі форма\n<variant> Айнымалы\n<variant> Объект\n<variant> Файл\n<variant> Панель",
+        "options": []
+    },
+    {
+        "question": "Button қандай элемент?\n<variant> Батырма\n<variant> Мәтін\n<variant> Терезе\n<variant> Кесте\n<variant> Радио",
+        "options": []
+    },
+    {
+        "question": "TextBox не үшін қолданылады?\n<variant> Мәтін енгізу үшін\n<variant> Мәлімет шығару\n<variant> Сурет көрсету\n<variant> Код жазу\n<variant> Түсті таңдау",
+        "options": []
+    },
+    {
+        "question": "Label элементі не істейді?\n<variant> Мәтінді көрсету үшін\n<variant> Мәтін енгізу\n<variant> Сурет көрсету\n<variant> Есептеу\n<variant> Панель ашу",
+        "options": []
+    },
+    {
+        "question": "PictureBox не көрсетеді?\n<variant> Сурет\n<variant> Мәтін\n<variant> Кесте\n<variant> График\n<variant> Объект",
+        "options": []
+    },
+    {
+        "question": "ComboBox не үшін керек?\n<variant> Таңдау тізімін көрсету\n<variant> Мәлімет енгізу\n<variant> Батырма ретінде\n<variant> Мәзір ретінде\n<variant> Диалог ашу",
+        "options": []
+    },
+    {
+        "question": "CheckBox қандай элемент?\n<variant> Белгі қоюға арналған\n<variant> Таңдау тізімі\n<variant> Радио батырма\n<variant> Мәзір\n<variant> Панель",
+        "options": []
+    },
+    {
+        "question": "Event дегеніміз не?\n<variant> Пайдаланушы әрекетіне жауап беру оқиғасы\n<variant> Айнымалы\n<variant> Функция\n<variant> Класс\n<variant> Цикл",
+        "options": []
+    },
+    {
+        "question": "Таймер не үшін керек?\n<variant> Белгілі уақыт аралығында оқиға тудыру\n<variant> Мәлімет енгізу\n<variant> Кесте шығару\n<variant> Түстер өзгерту\n<variant> Қате өңдеу",
+        "options": []
+    },
+    {
+        "question": "ColorDialog не істейді?\n<variant> Түсті таңдауға мүмкіндік береді\n<variant> Файл таңдау\n<variant> Мәтін шығару\n<variant> Кескін салу\n<variant> Мәзір ашу",
+        "options": []
+    },
+    {
+        "question": "MessageBox.Show() не үшін қолданылады?\n<variant> Хабарлама терезесін шығару\n<variant> Мәлімет енгізу\n<variant> Файл ашу\n<variant> Жазу\n<variant> Панель қосу",
+        "options": []
+    },
+    {
+        "question": "Form.Load оқиғасы қашан орындалады?\n<variant> Терезе жүктелгенде\n<variant> Батырма басқанда\n<variant> Бағдарлама жабылғанда\n<variant> Таймер тоқтағанда\n<variant> Енгізу кезінде",
+        "options": []
+    },
+    {
+        "question": "Form.Close() не істейді?\n<variant> Терезені жабады\n<variant> Бағдарламаны қайта іске қосады\n<variant> Мәзір ашады\n<variant> Диалог шақырады\n<variant> Тазалайды",
+        "options": []
+    },
+    {
+        "question": "Form.ShowDialog() не істейді?\n<variant> Модальды терезе ашады\n<variant> Қате шығарады\n<variant> Мәлімет енгізеді\n<variant> Таймерді іске қосады\n<variant> Мәзір жасырады",
+        "options": []
+    },
+    {
+        "question": "C# деректер базасымен жұмыс істеу үшін не қолданылады?\n<variant> ADO.NET\n<variant> XML\n<variant> JSON\n<variant> ASP.NET\n<variant> LINQPad",
+        "options": []
+    },
+    {
+        "question": "Connection дегеніміз не?\n<variant> Дерекқормен байланыс\n<variant> Кесте\n<variant> Сұраныс\n<variant> Мәлімет\n<variant> Индекс",
+        "options": []
+    },
+    {
+        "question": "Connection классы:\n<variant> SqlConnection\n<variant> SqlData\n<variant> DataConnect\n<variant> ConnectionDB\n<variant> DBLink",
+        "options": []
+    },
+    {
+        "question": "Command не үшін керек?\n<variant> SQL сұраныстар орындау\n<variant> Байланысты ашу\n<variant> Кесте жасау\n<variant> Мәлімет көшіру\n<variant> Мәлімет жою",
+        "options": []
+    },
+    {
+        "question": "Command класы:\n<variant> SqlCommand\n<variant> DataCommand\n<variant> DBCommand\n<variant> SqlTable\n<variant> Query",
+        "options": []
+    },
+    {
+        "question": "SqlDataReader не істейді?\n<variant> Мәліметтерді оқу\n<variant> Мәліметтерді жазу\n<variant> Файл ашу\n<variant> Кесте құру\n<variant> Мәліметтерді жою",
+        "options": []
+    },
+    {
+        "question": "DataAdapter не істейді?\n<variant> Мәліметтерді Dataset-ке жүктейді\n<variant> SQL қосады\n<variant> Қате өңдейді\n<variant> Кесте жояды\n<variant> XML ашады",
+        "options": []
+    },
+    {
+        "question": "Dataset не?\n<variant> Мәліметтер жиыны\n<variant> Қосымша\n<variant> SQL командасы\n<variant> Файл\n<variant> Жол",
+        "options": []
+    },
+    {
+        "question": "SqlConnection ашу мысалы:\n<variant> conn.Open();\n<variant> conn.Start();\n<variant> conn.Begin();\n<variant> conn.Init();\n<variant> conn.Link();",
+        "options": []
+    },
+    {
+        "question": "SqlConnection жабу мысалы:\n<variant> conn.Close();\n<variant> conn.Stop();\n<variant> conn.End();\n<variant> conn.Dispose();\n<variant> conn.Off();",
+        "options": []
+    },
+    {
+        "question": "Клиент--сервер архитектурасы неге негізделеді?\n<variant> Екі бөлік: клиент және сервер\n<variant> Бір модуль\n<variant> Файл жүйесі\n<variant> Объектілер\n<variant> Консоль",
+        "options": []
+    },
+    {
+        "question": "Сервердің қызметі:\n<variant> Клиент сұраныстарын өңдеу\n<variant> Мәлімет енгізу\n<variant> Интерфейс жасау\n<variant> Бағдарламаны жабу\n<variant> Мәтін шығару",
+        "options": []
+    },
+    {
+        "question": "Клиенттің қызметі:\n<variant> Серверге сұраныс жіберу\n<variant> Мәліметтер базасын құру\n<variant> Сервер қосу\n<variant> Команда орындау\n<variant> Файл ашу",
+        "options": []
+    },
+    {
+        "question": "Web-қосымша дегеніміз не?\n<variant> Интернет арқылы жұмыс істейтін бағдарлама\n<variant> Локалды бағдарлама\n<variant> Консоль қосымшасы\n<variant> Тест жүйесі\n<variant> Файл",
+        "options": []
+    },
+    {
+        "question": "ASP.NET не үшін қолданылады?\n<variant> Web-қосымшалар жасау\n<variant> Массив өңдеу\n<variant> Жолдарды біріктіру\n<variant> Консоль шығару\n<variant> Файлды оқу",
+        "options": []
+    },
+    {
+        "question": "Web Form дегеніміз не?\n<variant> Веб парақ\n<variant> Файл\n<variant> Терезе\n<variant> Кесте\n<variant> HTML құжат",
+        "options": []
+    },
+    {
+        "question": "Controller не істейді?\n<variant> Логиканы басқарады\n<variant> Мәліметтер сақтайды\n<variant> Пайдаланушы интерфейсін шығарады\n<variant> SQL жазады\n<variant> Түс өзгертеді",
+        "options": []
+    },
+    {
+        "question": "Model не үшін керек?\n<variant> Мәліметтер мен ережелерді сақтау\n<variant> Интерфейс жасау\n<variant> Бояу таңдау\n<variant> Файл оқу\n<variant> Диалог ашу",
+        "options": []
+    },
+    {
+        "question": "View не істейді?\n<variant> Мәліметті пайдаланушыға көрсету\n<variant> Мәліметтерді есептеу\n<variant> SQL орындау\n<variant> Сервер қосу\n<variant> Кесте құру",
+        "options": []
+    },
+    {
+        "question": "Класты кеңейту дегеніміз не?\n<variant> Бар кластан жаңа класс туындату процесі\n<variant> Кластың айнымалыларын көбейту\n<variant> Кластың ішінде жаңа әдіс жазу\n<variant> Кластың объектісін жою\n<variant> Кластың атын өзгерту",
+        "options": []
+    },
+    {
+        "question": "C# тілінде мұрагерлік қатынасын қалай орнатады?\n<variant> class B : A\n<variant> class A -> B\n<variant> inherit A from B\n<variant> extends A\n<variant> use A in B",
+        "options": []
+    },
+    {
+        "question": "Инкапсуляцияны жүзеге асыру үшін қай модификатор қолданылады?\n<variant> private\n<variant> public\n<variant> protected\n<variant> internal\n<variant> abstract",
+        "options": []
+    },
+    {
+        "question": "C# тілінде графикалық интерфейстерді жасауға арналған құрал?\n<variant> Windows Forms\n<variant> Visual Basic\n<variant> Assembly\n<variant> SQL Server\n<variant> HTML",
+        "options": []
+    },
+    {
+        "question": "C# тілінде WPF не үшін қолданылады?\n<variant> Графикалық интерфейс жасау үшін\n<variant> Деректер базасын құру үшін\n<variant> Веб-сайтты орналастыру үшін\n<variant> Желі хаттамаларын орнату үшін\n<variant> Консоль терезесін безендіру үшін",
+        "options": []
+    },
+    {
+        "question": "Windows Forms-та батырма қосу үшін қандай элемент қолданылады?\n<variant> Button\n<variant> Label\n<variant> TextBox\n<variant> PictureBox\n<variant> ComboBox",
+        "options": []
+    },
+    {
+        "question": "C# тілінде жолдарды біріктіру үшін қандай оператор қолданылады?\n<variant> +\n<variant> -\n<variant> *\n<variant> &\n<variant> :",
+        "options": []
+    },
+    {
+        "question": "C# тілінде жолдың ұзындығын табу үшін қай қасиет қолданылады?\n<variant> Length\n<variant> Count\n<variant> Size\n<variant> Index\n<variant> Capacity",
+        "options": []
+    },
+    {
+        "question": "Массив элементтерінің санын табу үшін не қолданылады?\n<variant> Length\n<variant> Count()\n<variant> Size()\n<variant> Get()\n<variant> Capacity",
+        "options": []
+    },
+    {
+        "question": "Көпөлшемді массив қалай жарияланады?\n<variant> int[,] arr = new int[3,4];\n<variant> int arr(3,4);\n<variant> array<int> arr = [3][4];\n<variant> int arr = new array(3,4);\n<variant> multi int arr;",
+        "options": []
+    },
+    {
+        "question": "foreach циклы қай мақсатта қолданылады?\n<variant> Массив немесе коллекция элементтерін өту үшін\n<variant> Айнымалыны көбейту үшін\n<variant> Тек шартты оператор орындау үшін\n<variant> Бір функцияны шақыру үшін\n<variant> Жаңа класс жасау үшін",
+        "options": []
+    },
+    {
+        "question": "Файлға жазу үшін C# тілінде қандай класс қолданылады?\n<variant> StreamWriter\n<variant> FileInfo\n<variant> StreamReader\n<variant> BinaryReader\n<variant> FileStream",
+        "options": []
+    },
+    {
+        "question": "Файлдан оқу үшін C# тілінде қандай класс қолданылады?\n<variant> StreamReader\n<variant> FileStream\n<variant> FileInfo\n<variant> FileWriter\n<variant> FileAccess",
+        "options": []
+    },
+    {
+        "question": "Файлмен жұмыс істеу үшін қай атау кеңістігі қажет?\n<variant> System.IO\n<variant> System.Text\n<variant> System.Data\n<variant> System.Linq\n<variant> System.Net",
+        "options": []
+    },
+    {
+        "question": "C# тілінде деректер базасымен жұмыс істеу үшін не қолданылады?\n<variant> ADO.NET\n<variant> JSON\n<variant> HTML\n<variant> XML\n<variant> API",
+        "options": []
+    },
+    {
+        "question": "ADO.NET құрамына қандай компонент кіреді?\n<variant> SqlConnection\n<variant> FileStream\n<variant> Socket\n<variant> JsonReader\n<variant> WebClient",
+        "options": []
+    },
+    {
+        "question": "SqlCommand класы не үшін қолданылады?\n<variant> SQL сұраныстарын орындау үшін\n<variant> Мәліметтерді сақтау үшін\n<variant> Массив элементтерін өңдеу үшін\n<variant> Графикалық интерфейс жасау үшін\n<variant> Файлмен жұмыс істеу үшін",
+        "options": []
+    },
+    {
+        "question": "SqlDataReader не істейді?\n<variant> Деректер базасынан мәліметтерді оқиды\n<variant> Мәліметтерді файлға жазады\n<variant> Кесте құрады\n<variant> Сервер қосымшасын іске қосады\n<variant> Деректер базасын жояды",
+        "options": []
+    }
+]
