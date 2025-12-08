@@ -1,0 +1,3502 @@
+[
+    {
+        "question": "Data Mining дегеніміз не?",
+        "options": [
+            {
+                "text": "Деректерді сақтау",
+                "isCorrect": false
+            },
+            {
+                "text": "Деректерді жою",
+                "isCorrect": false
+            },
+            {
+                "text": "Деректерден білім алу",
+                "isCorrect": true
+            },
+            {
+                "text": "Желі орнату",
+                "isCorrect": false
+            },
+            {
+                "text": "Бағдарлама орнату",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Интеллектуалды деректерді өңдеудің негізгі мақсаты қандай?",
+        "options": [
+            {
+                "text": "Деректерді көшіру",
+                "isCorrect": false
+            },
+            {
+                "text": "Деректерді сақтау",
+                "isCorrect": false
+            },
+            {
+                "text": "Деректерден жаңа білім алу",
+                "isCorrect": true
+            },
+            {
+                "text": "Деректер қосу",
+                "isCorrect": false
+            },
+            {
+                "text": "Деректерді жою",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Data Mining қай салаға жатады?",
+        "options": [
+            {
+                "text": "Биология",
+                "isCorrect": false
+            },
+            {
+                "text": "География",
+                "isCorrect": false
+            },
+            {
+                "text": "Деректер ғылымы",
+                "isCorrect": true
+            },
+            {
+                "text": "Химия",
+                "isCorrect": false
+            },
+            {
+                "text": "Архитектура",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "KDD процесінің кезеңдері:",
+        "options": [
+            {
+                "text": "Жүктеу, сақтау",
+                "isCorrect": false
+            },
+            {
+                "text": "Сату, сатып алу",
+                "isCorrect": false
+            },
+            {
+                "text": "Тазалау → Түрлендіру → Mining → Интерпретация",
+                "isCorrect": true
+            },
+            {
+                "text": "Монтаждау",
+                "isCorrect": false
+            },
+            {
+                "text": "Архивтеу",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Деректерді тазалау мақсаты:",
+        "options": [
+            {
+                "text": "Деректерді көбейту",
+                "isCorrect": false
+            },
+            {
+                "text": "Деректерді сатуға дайындау",
+                "isCorrect": false
+            },
+            {
+                "text": "Шулы және қате деректерді түзету",
+                "isCorrect": true
+            },
+            {
+                "text": "Деректерді қысқарту",
+                "isCorrect": false
+            },
+            {
+                "text": "Файлдарды бөлу",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Data Warehouse дегеніміз:",
+        "options": [
+            {
+                "text": "Файл мұрағаты",
+                "isCorrect": false
+            },
+            {
+                "text": "Ойын сервері",
+                "isCorrect": false
+            },
+            {
+                "text": "Аналитикаға арналған деректер қоймасы",
+                "isCorrect": true
+            },
+            {
+                "text": "Операциялық жүйе",
+                "isCorrect": false
+            },
+            {
+                "text": "Интернет дүкен",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "OLAP технологиясының мақсаты:",
+        "options": [
+            {
+                "text": "Желі құру",
+                "isCorrect": false
+            },
+            {
+                "text": "Файлдарды ашу",
+                "isCorrect": false
+            },
+            {
+                "text": "Көпөлшемді талдау",
+                "isCorrect": true
+            },
+            {
+                "text": "Электрондық пошта",
+                "isCorrect": false
+            },
+            {
+                "text": "Видео өңдеу",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "K-means не үшін қолданылады?",
+        "options": [
+            {
+                "text": "Классификация",
+                "isCorrect": false
+            },
+            {
+                "text": "Регрессия",
+                "isCorrect": false
+            },
+            {
+                "text": "Кластерлеу",
+                "isCorrect": true
+            },
+            {
+                "text": "Болжау",
+                "isCorrect": false
+            },
+            {
+                "text": "Генерация",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Decision Tree артықшылығы:",
+        "options": [
+            {
+                "text": "Өте баяу",
+                "isCorrect": false
+            },
+            {
+                "text": "Есептеу қиын",
+                "isCorrect": false
+            },
+            {
+                "text": "Түсінікті интерпретация",
+                "isCorrect": true
+            },
+            {
+                "text": "Деректер қажет емес",
+                "isCorrect": false
+            },
+            {
+                "text": "Өте күрделі",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Naive Bayes негізі:",
+        "options": [
+            {
+                "text": "Ара қашықтық",
+                "isCorrect": false
+            },
+            {
+                "text": "Уақытша қатар",
+                "isCorrect": false
+            },
+            {
+                "text": "Шартты ықтималдық",
+                "isCorrect": true
+            },
+            {
+                "text": "Генетикалық формула",
+                "isCorrect": false
+            },
+            {
+                "text": "Ағаш құрылымы",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "KNN алгоритм принципі",
+        "options": [
+            {
+                "text": "Ең үлкен мәнді таңдау",
+                "isCorrect": false
+            },
+            {
+                "text": "Орташа мәнді есептеу",
+                "isCorrect": false
+            },
+            {
+                "text": "Ең жақын көршілерді пайдалану",
+                "isCorrect": true
+            },
+            {
+                "text": "Ағаш құру",
+                "isCorrect": false
+            },
+            {
+                "text": "Шуды жою",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "SVM мақсаты",
+        "options": [
+            {
+                "text": "Топтар санын табу",
+                "isCorrect": false
+            },
+            {
+                "text": "Шуды көбейту",
+                "isCorrect": false
+            },
+            {
+                "text": "Екі классты ең тиімді бөлу",
+                "isCorrect": true
+            },
+            {
+                "text": "Модельді баяулату",
+                "isCorrect": false
+            },
+            {
+                "text": "Файлдарды сығу",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Регрессия не үшін?",
+        "options": [
+            {
+                "text": "Топтау",
+                "isCorrect": false
+            },
+            {
+                "text": "Категориялау",
+                "isCorrect": false
+            },
+            {
+                "text": "Сандық мәнді болжау",
+                "isCorrect": true
+            },
+            {
+                "text": "Модельді сығу",
+                "isCorrect": false
+            },
+            {
+                "text": "Кластерді бөлу",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Linear Regression нені білдіреді?",
+        "options": [
+            {
+                "text": "Квадраттық тәуелділік",
+                "isCorrect": false
+            },
+            {
+                "text": "Сызықтық тәуелділік",
+                "isCorrect": true
+            },
+            {
+                "text": "Логикалық операция",
+                "isCorrect": false
+            },
+            {
+                "text": "Кездейсоқ модель",
+                "isCorrect": false
+            },
+            {
+                "text": "Үзілісті функция",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Apriori алгоритмі не үшін?",
+        "options": [
+            {
+                "text": "Кластерлеу",
+                "isCorrect": false
+            },
+            {
+                "text": "Регрессия",
+                "isCorrect": false
+            },
+            {
+                "text": "Ассоциативті ережелер табу",
+                "isCorrect": true
+            },
+            {
+                "text": "Болжау",
+                "isCorrect": false
+            },
+            {
+                "text": "Нейрондарды оқыту",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "FP-Growth ерекшелігі",
+        "options": [
+            {
+                "text": "Негізсіз есеп",
+                "isCorrect": false
+            },
+            {
+                "text": "Деректерді жояды",
+                "isCorrect": false
+            },
+            {
+                "text": "Жылдам және тиімді ассоциация шығару",
+                "isCorrect": true
+            },
+            {
+                "text": "Қайта-қайта сканерлеу",
+                "isCorrect": false
+            },
+            {
+                "text": "Қоштасу",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Нейрондық желі дегеніміз",
+        "options": [
+            {
+                "text": "Файл жинағы",
+                "isCorrect": false
+            },
+            {
+                "text": "Топтық сервер",
+                "isCorrect": false
+            },
+            {
+                "text": "Адам миына ұқсас модель",
+                "isCorrect": true
+            },
+            {
+                "text": "Таза деректер",
+                "isCorrect": false
+            },
+            {
+                "text": "Графикалық интерфейс",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Deep Learning дегеніміз",
+        "options": [
+            {
+                "text": "Жай код жазу",
+                "isCorrect": false
+            },
+            {
+                "text": "Терең ұйқы",
+                "isCorrect": false
+            },
+            {
+                "text": "Көп қабатты нейрондық желілер",
+                "isCorrect": true
+            },
+            {
+                "text": "Онлайн оқыту",
+                "isCorrect": false
+            },
+            {
+                "text": "Мониторинг",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Big Data термині нені білдіреді?",
+        "options": [
+            {
+                "text": "Шағын файлдар",
+                "isCorrect": false
+            },
+            {
+                "text": "Тек сандар",
+                "isCorrect": false
+            },
+            {
+                "text": "Үлкен көлемді деректер",
+                "isCorrect": true
+            },
+            {
+                "text": "Суреттер",
+                "isCorrect": false
+            },
+            {
+                "text": "Аудио",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hadoop жүйесінің мақсаты",
+        "options": [
+            {
+                "text": "Вирус табу",
+                "isCorrect": false
+            },
+            {
+                "text": "Веб-сайт жасау",
+                "isCorrect": false
+            },
+            {
+                "text": "Үлкен деректерді сақтау және өңдеу",
+                "isCorrect": true
+            },
+            {
+                "text": "Ойын ойнау",
+                "isCorrect": false
+            },
+            {
+                "text": "Робот басқару",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Spark жүйесінің негізгі артықшылығы неде?",
+        "options": [
+            {
+                "text": "Әрқашан интернетсіз жұмыс істейді",
+                "isCorrect": false
+            },
+            {
+                "text": "Тек SQL орындайды",
+                "isCorrect": false
+            },
+            {
+                "text": "Жедел жадта (in-memory) жылдам есептеу",
+                "isCorrect": true
+            },
+            {
+                "text": "Тек сақтау үшін",
+                "isCorrect": false
+            },
+            {
+                "text": "Кіші деректерге арналған",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "ETL процесінің бірінші кезеңі қандай?",
+        "options": [
+            {
+                "text": "Load",
+                "isCorrect": false
+            },
+            {
+                "text": "Transform",
+                "isCorrect": false
+            },
+            {
+                "text": "Extract",
+                "isCorrect": true
+            },
+            {
+                "text": "Clean",
+                "isCorrect": false
+            },
+            {
+                "text": "Analyze",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "ETL процесінің мақсаты не?",
+        "options": [
+            {
+                "text": "Файлдарды архивтеу",
+                "isCorrect": false
+            },
+            {
+                "text": "Веб-сайт жасау",
+                "isCorrect": false
+            },
+            {
+                "text": "Деректерді алу, түрлендіру, жүктеу",
+                "isCorrect": true
+            },
+            {
+                "text": "Видео кодтау",
+                "isCorrect": false
+            },
+            {
+                "text": "Модельді оқыту",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Data Cleaning не үшін қолданылады?",
+        "options": [
+            {
+                "text": "Деректерді жояды",
+                "isCorrect": false
+            },
+            {
+                "text": "Жаңа кластер жасайды",
+                "isCorrect": false
+            },
+            {
+                "text": "Қате, толық емес деректерді түзетуге",
+                "isCorrect": true
+            },
+            {
+                "text": "Жасанды деректер құрады",
+                "isCorrect": false
+            },
+            {
+                "text": "Есептерді шығарады",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "One-hot encoding әдісінің мақсаты не?",
+        "options": [
+            {
+                "text": "Сандық деректерді азайту",
+                "isCorrect": false
+            },
+            {
+                "text": "Өлшемділікті қысқарту",
+                "isCorrect": false
+            },
+            {
+                "text": "Категориялық деректерді бинарлық форматқа ауыстыру",
+                "isCorrect": true
+            },
+            {
+                "text": "Шуды көбейту",
+                "isCorrect": false
+            },
+            {
+                "text": "Таймсерия құру",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "PCA әдісі не үшін қолданылады?",
+        "options": [
+            {
+                "text": "Кластерлеу",
+                "isCorrect": false
+            },
+            {
+                "text": "Нейрондық желі құру",
+                "isCorrect": false
+            },
+            {
+                "text": "Өлшемділікті қысқарту",
+                "isCorrect": true
+            },
+            {
+                "text": "Файл сығу",
+                "isCorrect": false
+            },
+            {
+                "text": "Регрессия",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Normalization дегеніміз не?",
+        "options": [
+            {
+                "text": "Файл бөлу",
+                "isCorrect": false
+            },
+            {
+                "text": "Деректерді көбейту",
+                "isCorrect": false
+            },
+            {
+                "text": "Мәндерді бір масштабқа келтіру",
+                "isCorrect": true
+            },
+            {
+                "text": "График салу",
+                "isCorrect": false
+            },
+            {
+                "text": "Модель таңдау",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Label Encoding қай кезде қолданылады?",
+        "options": [
+            {
+                "text": "Сандық деректерді қалыпқа келтіру",
+                "isCorrect": false
+            },
+            {
+                "text": "Деректерді жүктеу",
+                "isCorrect": false
+            },
+            {
+                "text": "Категорияны санға айналдыру үшін",
+                "isCorrect": true
+            },
+            {
+                "text": "Түсініктеме жазу",
+                "isCorrect": false
+            },
+            {
+                "text": "Графика салу",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Outlier дегеніміз не?",
+        "options": [
+            {
+                "text": "Кездейсоқ дерек",
+                "isCorrect": false
+            },
+            {
+                "text": "Топ ортасындағы мән",
+                "isCorrect": false
+            },
+            {
+                "text": "Жалпы трендтен қатты ауытқыған мән",
+                "isCorrect": true
+            },
+            {
+                "text": "Файл атауы",
+                "isCorrect": false
+            },
+            {
+                "text": "Таза дерек",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Feature Selection мақсаты не?",
+        "options": [
+            {
+                "text": "Модельді бұзу",
+                "isCorrect": false
+            },
+            {
+                "text": "Барлық деректерді сақтау",
+                "isCorrect": false
+            },
+            {
+                "text": "Маңызды белгілерді таңдау",
+                "isCorrect": true
+            },
+            {
+                "text": "Кластер санын көбейту",
+                "isCorrect": false
+            },
+            {
+                "text": "Деректерді бояу",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Confusion Matrix не үшін қолданылады?",
+        "options": [
+            {
+                "text": "Деректерді сақтау үшін",
+                "isCorrect": false
+            },
+            {
+                "text": "Шуды жою",
+                "isCorrect": false
+            },
+            {
+                "text": "Классификация сапасын бағалау",
+                "isCorrect": true
+            },
+            {
+                "text": "Кластер табу",
+                "isCorrect": false
+            },
+            {
+                "text": "Таймсерия құру",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Accuracy метрикасы нені білдіреді?",
+        "options": [
+            {
+                "text": "Қате үлесі",
+                "isCorrect": false
+            },
+            {
+                "text": "Ортасынан ауытқу",
+                "isCorrect": false
+            },
+            {
+                "text": "Дұрыс классификация үлесі",
+                "isCorrect": true
+            },
+            {
+                "text": "Кластер сапасы",
+                "isCorrect": false
+            },
+            {
+                "text": "Қашықтық көрсеткіші",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Precision нені көрсетеді?",
+        "options": [
+            {
+                "text": "Нақты класқа жатпайтындар",
+                "isCorrect": false
+            },
+            {
+                "text": "Қате болжау",
+                "isCorrect": false
+            },
+            {
+                "text": "Позитив болжамдардың қаншасы дұрыс екенін",
+                "isCorrect": true
+            },
+            {
+                "text": "Түрлендірілген деректер",
+                "isCorrect": false
+            },
+            {
+                "text": "Барлық мәндердің орташа мәні",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Feature Scaling не үшін қажет?",
+        "options": [
+            {
+                "text": "Есептеуді баяулату",
+                "isCorrect": false
+            },
+            {
+                "text": "Категориялар қосу",
+                "isCorrect": false
+            },
+            {
+                "text": "Белгілердің масштабын теңестіру",
+                "isCorrect": true
+            },
+            {
+                "text": "Модельді жою",
+                "isCorrect": false
+            },
+            {
+                "text": "Файлдарды көшіру",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Decision Tree қандай типтегі алгоритмге жатады?",
+        "options": [
+            {
+                "text": "Кластерлеу",
+                "isCorrect": false
+            },
+            {
+                "text": "Регрессия ғана",
+                "isCorrect": false
+            },
+            {
+                "text": "Классификация және регрессия",
+                "isCorrect": true
+            },
+            {
+                "text": "Таймсерия",
+                "isCorrect": false
+            },
+            {
+                "text": "Визуализация",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Entropy ұғымы Decision Tree-де нені көрсетеді?",
+        "options": [
+            {
+                "text": "Модель көлемін",
+                "isCorrect": false
+            },
+            {
+                "text": "График ұзындығын",
+                "isCorrect": false
+            },
+            {
+                "text": "Белгісіздік, ретсіздік деңгейін",
+                "isCorrect": true
+            },
+            {
+                "text": "Қашықтықты",
+                "isCorrect": false
+            },
+            {
+                "text": "Уақытты",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Box-plot графигі не үшін қолданылады?",
+        "options": [
+            {
+                "text": "Нейрон салу",
+                "isCorrect": false
+            },
+            {
+                "text": "Ағаш модельдеу",
+                "isCorrect": false
+            },
+            {
+                "text": "Ауытқулар мен медиананы көрсету",
+                "isCorrect": true
+            },
+            {
+                "text": "Қате есептеу",
+                "isCorrect": false
+            },
+            {
+                "text": "Мәтін талдау",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Support көрсеткіші нені сипаттайды?",
+        "options": [
+            {
+                "text": "Ереженің дәлдігін",
+                "isCorrect": false
+            },
+            {
+                "text": "Деректердің көлемін",
+                "isCorrect": false
+            },
+            {
+                "text": "Элемент жиілігін",
+                "isCorrect": true
+            },
+            {
+                "text": "Кластер санын",
+                "isCorrect": false
+            },
+            {
+                "text": "Ара қашықтықты",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Confidence мәні не көрсетеді?",
+        "options": [
+            {
+                "text": "Қарама-қайшылықты",
+                "isCorrect": false
+            },
+            {
+                "text": "Кездейсоқтықты",
+                "isCorrect": false
+            },
+            {
+                "text": "\"Егер X болса, Y болу ықтималдығы\"",
+                "isCorrect": true
+            },
+            {
+                "text": "Белгісіздік",
+                "isCorrect": false
+            },
+            {
+                "text": "Қателік мөлшері",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Lift метрикасы не үшін қолданылады?",
+        "options": [
+            {
+                "text": "Деректерді реттеуге",
+                "isCorrect": false
+            },
+            {
+                "text": "Шуды азайтуға",
+                "isCorrect": false
+            },
+            {
+                "text": "Ереженің пайдалы екенін анықтауға",
+                "isCorrect": true
+            },
+            {
+                "text": "Вектор табу",
+                "isCorrect": false
+            },
+            {
+                "text": "График салу",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Data Mining қай салаларда жиі қолданылады?",
+        "options": [
+            {
+                "text": "Тек физика",
+                "isCorrect": false
+            },
+            {
+                "text": "Тек химия",
+                "isCorrect": false
+            },
+            {
+                "text": "Маркетинг, қаржы, медицина",
+                "isCorrect": true
+            },
+            {
+                "text": "Астрология",
+                "isCorrect": false
+            },
+            {
+                "text": "Геодезия",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Медицинада Data Mining не үшін қолданылады?",
+        "options": [
+            {
+                "text": "Түстерді өзгерту",
+                "isCorrect": false
+            },
+            {
+                "text": "Құрылыс жүргізу",
+                "isCorrect": false
+            },
+            {
+                "text": "Ауруларды болжау, диагноз жасау",
+                "isCorrect": true
+            },
+            {
+                "text": "Жобалау",
+                "isCorrect": false
+            },
+            {
+                "text": "Ресурс жүктеу",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Маркетингте Data Mining қандай мақсатта қолданылады?",
+        "options": [
+            {
+                "text": "Құрылыс есептеу",
+                "isCorrect": false
+            },
+            {
+                "text": "Жарық өлшеу",
+                "isCorrect": false
+            },
+            {
+                "text": "Клиент мінез-құлқын талдау",
+                "isCorrect": true
+            },
+            {
+                "text": "Ауа райын болжау",
+                "isCorrect": false
+            },
+            {
+                "text": "Мәтін жазу",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Қаржы саласында Data Mining қалай пайдаланылады?",
+        "options": [
+            {
+                "text": "Үй салу",
+                "isCorrect": false
+            },
+            {
+                "text": "Шөп жинау",
+                "isCorrect": false
+            },
+            {
+                "text": "Несие тәуекелін болжау",
+                "isCorrect": true
+            },
+            {
+                "text": "Тағам жасау",
+                "isCorrect": false
+            },
+            {
+                "text": "Мотор жөндеу",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Білім беру саласында Data Mining не береді?",
+        "options": [
+            {
+                "text": "Ас мәзірі",
+                "isCorrect": false
+            },
+            {
+                "text": "Спорт нәтижесі",
+                "isCorrect": false
+            },
+            {
+                "text": "Студент үлгерімін талдау",
+                "isCorrect": true
+            },
+            {
+                "text": "Үй салу әдісі",
+                "isCorrect": false
+            },
+            {
+                "text": "Дәрі жасау",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Web Mining дегеніміз не?",
+        "options": [
+            {
+                "text": "Темір қазу",
+                "isCorrect": false
+            },
+            {
+                "text": "Файл архивтеу",
+                "isCorrect": false
+            },
+            {
+                "text": "Интернеттегі деректерді талдау",
+                "isCorrect": true
+            },
+            {
+                "text": "Сурет бояу",
+                "isCorrect": false
+            },
+            {
+                "text": "Видео түсіру",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Text Mining нені зерттейді?",
+        "options": [
+            {
+                "text": "Сандар",
+                "isCorrect": false
+            },
+            {
+                "text": "График",
+                "isCorrect": false
+            },
+            {
+                "text": "Мәтіндік деректерді талдау",
+                "isCorrect": true
+            },
+            {
+                "text": "Видео",
+                "isCorrect": false
+            },
+            {
+                "text": "Аудио",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Sentiment Analysis не үшін қолданылады?",
+        "options": [
+            {
+                "text": "Кластер бөлектеу",
+                "isCorrect": false
+            },
+            {
+                "text": "Генетика",
+                "isCorrect": false
+            },
+            {
+                "text": "Пікірлердің эмоционалды тонусын анықтау",
+                "isCorrect": true
+            },
+            {
+                "text": "3D модель",
+                "isCorrect": false
+            },
+            {
+                "text": "Ауа райы",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Social Network Analysis не істейді?",
+        "options": [
+            {
+                "text": "Машина құрастырады",
+                "isCorrect": false
+            },
+            {
+                "text": "Камера реттейді",
+                "isCorrect": false
+            },
+            {
+                "text": "Әлеуметтік байланыстарды талдайды",
+                "isCorrect": true
+            },
+            {
+                "text": "Видео жүктейді",
+                "isCorrect": false
+            },
+            {
+                "text": "GPS орнатады",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "MAE (Mean Absolute Error) нені білдіреді?",
+        "options": [
+            {
+                "text": "Квадрат қателік",
+                "isCorrect": false
+            },
+            {
+                "text": "Логистикалық шығын",
+                "isCorrect": false
+            },
+            {
+                "text": "Орташа абсолюттік қателік",
+                "isCorrect": true
+            },
+            {
+                "text": "Екілік кристалл",
+                "isCorrect": false
+            },
+            {
+                "text": "Нақты емес шешім",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Кластерлеу (Clustering) дегеніміз не?",
+        "options": [
+            {
+                "text": "Модель жою",
+                "isCorrect": false
+            },
+            {
+                "text": "Файл көшіру",
+                "isCorrect": false
+            },
+            {
+                "text": "Ұқсас объектілерді топтау",
+                "isCorrect": true
+            },
+            {
+                "text": "Мәндерді көбейту",
+                "isCorrect": false
+            },
+            {
+                "text": "Шифрлау",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "K-means негізгі мақсаты:",
+        "options": [
+            {
+                "text": "Сызық салу",
+                "isCorrect": false
+            },
+            {
+                "text": "Белгі таңдау",
+                "isCorrect": false
+            },
+            {
+                "text": "Мәліметтерді K топқа бөлу",
+                "isCorrect": true
+            },
+            {
+                "text": "Регрессия құру",
+                "isCorrect": false
+            },
+            {
+                "text": "Таймсерия жасау",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "K-means алгоритмінде жиі қолданылатын қашықтық өлшемі:",
+        "options": [
+            {
+                "text": "Манхэттен",
+                "isCorrect": false
+            },
+            {
+                "text": "Косинус",
+                "isCorrect": false
+            },
+            {
+                "text": "Евклид қашықтығы",
+                "isCorrect": true
+            },
+            {
+                "text": "Минковский",
+                "isCorrect": false
+            },
+            {
+                "text": "Хэмминг",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Иерархиялық кластерлеудің нәтижесі қандай формада көрсетіледі?",
+        "options": [
+            {
+                "text": "Кесте",
+                "isCorrect": false
+            },
+            {
+                "text": "Қисық сызық",
+                "isCorrect": false
+            },
+            {
+                "text": "Дендограмма",
+                "isCorrect": true
+            },
+            {
+                "text": "Сурет",
+                "isCorrect": false
+            },
+            {
+                "text": "Аудио",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Agglomerative кластерлеу дегеніміз?",
+        "options": [
+            {
+                "text": "Бір класты бірнеше бөлу",
+                "isCorrect": false
+            },
+            {
+                "text": "Алдымен үлкен кластер құру",
+                "isCorrect": false
+            },
+            {
+                "text": "Қарапайымнан күрделіге біріктіру",
+                "isCorrect": true
+            },
+            {
+                "text": "Шуды барынша арттыру",
+                "isCorrect": false
+            },
+            {
+                "text": "Регрессия жасау",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "DBSCAN алгоритмінің негізгі идеясы:",
+        "options": [
+            {
+                "text": "Орташа мән табу",
+                "isCorrect": false
+            },
+            {
+                "text": "Шуды көбейту",
+                "isCorrect": false
+            },
+            {
+                "text": "Тығыздыққа негізделген кластерлер табу",
+                "isCorrect": true
+            },
+            {
+                "text": "Формула қолдану",
+                "isCorrect": false
+            },
+            {
+                "text": "Түс кодтау",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "DBSCAN параметрлері:",
+        "options": [
+            {
+                "text": "Depth, Width",
+                "isCorrect": false
+            },
+            {
+                "text": "Gain, Loss",
+                "isCorrect": false
+            },
+            {
+                "text": "Eps және MinPts",
+                "isCorrect": true
+            },
+            {
+                "text": "α және β",
+                "isCorrect": false
+            },
+            {
+                "text": "LR және Momentum",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Қай әдіс кластер санын алдын ала беруді талап етеді?",
+        "options": [
+            {
+                "text": "DBSCAN",
+                "isCorrect": false
+            },
+            {
+                "text": "Agglomerative",
+                "isCorrect": false
+            },
+            {
+                "text": "K-means",
+                "isCorrect": true
+            },
+            {
+                "text": "OPTICS",
+                "isCorrect": false
+            },
+            {
+                "text": "LDA",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Кластерлеу сапасын бағалауда қолданылатын көрсеткіш:",
+        "options": [
+            {
+                "text": "Entropy",
+                "isCorrect": false
+            },
+            {
+                "text": "MSE",
+                "isCorrect": false
+            },
+            {
+                "text": "Silhouette score",
+                "isCorrect": true
+            },
+            {
+                "text": "Accuracy",
+                "isCorrect": false
+            },
+            {
+                "text": "Recall",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "DBSCAN алгоритмінің артықшылығы:",
+        "options": [
+            {
+                "text": "Кластер санын енгізуді талап етеді",
+                "isCorrect": false
+            },
+            {
+                "text": "Ұқсас емес мәндерді біріктіреді",
+                "isCorrect": false
+            },
+            {
+                "text": "Шуды автоматты түрде бөледі",
+                "isCorrect": true
+            },
+            {
+                "text": "Есептеу жылдам емес",
+                "isCorrect": false
+            },
+            {
+                "text": "Тек сызықтық деректерге жарайды",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Ассоциациялық талдаудың негізгі мақсаты қандай?",
+        "options": [
+            {
+                "text": "Деректерді қысқарту",
+                "isCorrect": false
+            },
+            {
+                "text": "Кластер табу",
+                "isCorrect": false
+            },
+            {
+                "text": "Объектілер арасындағы байланыстарды табу",
+                "isCorrect": true
+            },
+            {
+                "text": "Деректерді жою",
+                "isCorrect": false
+            },
+            {
+                "text": "Модельді баяулату",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Ассоциативті ереженің жалпы түрі қалай жазылады?",
+        "options": [
+            {
+                "text": "X + Y",
+                "isCorrect": false
+            },
+            {
+                "text": "X = Y",
+                "isCorrect": false
+            },
+            {
+                "text": "X → Y",
+                "isCorrect": true
+            },
+            {
+                "text": "X ↔ Y",
+                "isCorrect": false
+            },
+            {
+                "text": "X × Y",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Support көрсеткіші нені білдіреді?",
+        "options": [
+            {
+                "text": "Ереженің қателігін",
+                "isCorrect": false
+            },
+            {
+                "text": "Деректердің жалпы санын",
+                "isCorrect": false
+            },
+            {
+                "text": "X және Y бірге кездесетін жиілігі",
+                "isCorrect": true
+            },
+            {
+                "text": "Модельдің көлемін",
+                "isCorrect": false
+            },
+            {
+                "text": "Кластердің өлшемін",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Confidence қандай формуламен есептеледі?",
+        "options": [
+            {
+                "text": "P(Y) / P(X)",
+                "isCorrect": false
+            },
+            {
+                "text": "P(X) × P(Y)",
+                "isCorrect": false
+            },
+            {
+                "text": "P(X ∪ Y) / P(X)",
+                "isCorrect": true
+            },
+            {
+                "text": "P(X) − P(Y)",
+                "isCorrect": false
+            },
+            {
+                "text": "1 − P(Y)",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Lift > 1 болса, бұл нені білдіреді?",
+        "options": [
+            {
+                "text": "Ереже жарамсыз",
+                "isCorrect": false
+            },
+            {
+                "text": "X және Y бір-біріне кері әсер етеді",
+                "isCorrect": false
+            },
+            {
+                "text": "X болғанда Y кездесу ықтималдығы артады",
+                "isCorrect": true
+            },
+            {
+                "text": "Ереже кездейсоқ",
+                "isCorrect": false
+            },
+            {
+                "text": "Байланыс жоқ",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Apriori алгоритмінің негізгі идеясы:",
+        "options": [
+            {
+                "text": "Кездейсоқ таңдау",
+                "isCorrect": false
+            },
+            {
+                "text": "Кластерді көбейту",
+                "isCorrect": false
+            },
+            {
+                "text": "Жиі кездесетін жиындардан үлкен жиындар құру",
+                "isCorrect": true
+            },
+            {
+                "text": "Деректерді жою",
+                "isCorrect": false
+            },
+            {
+                "text": "Модельді қысқарту",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Apriori кемшілігі:",
+        "options": [
+            {
+                "text": "Ешқандай модель құрмайды",
+                "isCorrect": false
+            },
+            {
+                "text": "Тым тез жұмыс істейді",
+                "isCorrect": false
+            },
+            {
+                "text": "Көп рет деректерді сканерлеу",
+                "isCorrect": true
+            },
+            {
+                "text": "Нәтиже бермейді",
+                "isCorrect": false
+            },
+            {
+                "text": "Мәліметтерді талап етпейді",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "FP-Growth алгоритмінде қандай құрылым құрылады?",
+        "options": [
+            {
+                "text": "Decision Tree",
+                "isCorrect": false
+            },
+            {
+                "text": "Hash Table",
+                "isCorrect": false
+            },
+            {
+                "text": "FP-tree",
+                "isCorrect": true
+            },
+            {
+                "text": "Graph Network",
+                "isCorrect": false
+            },
+            {
+                "text": "Neural Net",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "FP-Growth артықшылығы:",
+        "options": [
+            {
+                "text": "Мәліметтерді баяу өңдейді",
+                "isCorrect": false
+            },
+            {
+                "text": "Деректерді жояды",
+                "isCorrect": false
+            },
+            {
+                "text": "Бірнеше рет сканерлеуді қажет етпейді",
+                "isCorrect": true
+            },
+            {
+                "text": "Жиындарды азайтады",
+                "isCorrect": false
+            },
+            {
+                "text": "Ассоциация құруды тоқтатады",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Ассоциациялық талдау ең көп қолданылатын сала:",
+        "options": [
+            {
+                "text": "Адам физиологиясы",
+                "isCorrect": false
+            },
+            {
+                "text": "Аграрлық шаруашылық",
+                "isCorrect": false
+            },
+            {
+                "text": "Market Basket Analysis",
+                "isCorrect": true
+            },
+            {
+                "text": "Ауа райы",
+                "isCorrect": false
+            },
+            {
+                "text": "Жер қойнауын барлау",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Өлшемділікті қысқарту әдістері бойынша тест: қайсысы дұрыс?",
+        "options": [
+            {
+                "text": "PCA – кластерлеу",
+                "isCorrect": false
+            },
+            {
+                "text": "LDA – қашықтық есептеу",
+                "isCorrect": false
+            },
+            {
+                "text": "PCA – өлшемділікті азайту",
+                "isCorrect": true
+            },
+            {
+                "text": "LDA – сурет салу",
+                "isCorrect": false
+            },
+            {
+                "text": "PCA – уақыттық қатар",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Өлшемділікті қысқарту дегеніміз не?",
+        "options": [
+            {
+                "text": "Белгілер санын көбейту",
+                "isCorrect": false
+            },
+            {
+                "text": "Деректерді жою",
+                "isCorrect": false
+            },
+            {
+                "text": "Қажетсіз немесе корреляциясы жоғары белгілерді азайту",
+                "isCorrect": true
+            },
+            {
+                "text": "Модельді тоқтату",
+                "isCorrect": false
+            },
+            {
+                "text": "Кластер санын арттыру",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "PCA әдісінің негізгі мақсаты:",
+        "options": [
+            {
+                "text": "Сызық салу",
+                "isCorrect": false
+            },
+            {
+                "text": "Категориялау",
+                "isCorrect": false
+            },
+            {
+                "text": "Максималды дисперсия бағыттарын табу",
+                "isCorrect": true
+            },
+            {
+                "text": "График салу",
+                "isCorrect": false
+            },
+            {
+                "text": "Деректерді жою",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "PCA қай типті әдіске жатады?",
+        "options": [
+            {
+                "text": "Қадағаланатын",
+                "isCorrect": false
+            },
+            {
+                "text": "Редукциялық (өлшемділікті қысқарту)",
+                "isCorrect": true
+            },
+            {
+                "text": "Классификация",
+                "isCorrect": false
+            },
+            {
+                "text": "Регрессия",
+                "isCorrect": false
+            },
+            {
+                "text": "Таймсерия",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "PCA алгоритмінің алғашқы қадамы:",
+        "options": [
+            {
+                "text": "График құру",
+                "isCorrect": false
+            },
+            {
+                "text": "Label Encoding",
+                "isCorrect": false
+            },
+            {
+                "text": "Деректерді стандарттау",
+                "isCorrect": true
+            },
+            {
+                "text": "Нейрон құру",
+                "isCorrect": false
+            },
+            {
+                "text": "Кластер құру",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "LDA әдісінің мақсаты:",
+        "options": [
+            {
+                "text": "Кластер саны",
+                "isCorrect": false
+            },
+            {
+                "text": "Деректерді жою",
+                "isCorrect": false
+            },
+            {
+                "text": "Кластарды жақсы ажырататын бағыттарды табу",
+                "isCorrect": true
+            },
+            {
+                "text": "Файлдарды қысу",
+                "isCorrect": false
+            },
+            {
+                "text": "Нейрон желі құру",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "LDA қай типті әдіске жатады?",
+        "options": [
+            {
+                "text": "Қадағаланбайтын",
+                "isCorrect": false
+            },
+            {
+                "text": "Кластерлік",
+                "isCorrect": false
+            },
+            {
+                "text": "Қадағаланатын",
+                "isCorrect": true
+            },
+            {
+                "text": "Генетикалық",
+                "isCorrect": false
+            },
+            {
+                "text": "Төмен деңгейлі",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "PCA мен LDA айырмашылығының дұрысы:",
+        "options": [
+            {
+                "text": "PCA – supervised, LDA – unsupervised",
+                "isCorrect": false
+            },
+            {
+                "text": "Екеуі де бірдей",
+                "isCorrect": false
+            },
+            {
+                "text": "PCA – дисперсияны, LDA – кластарды бөледі",
+                "isCorrect": true
+            },
+            {
+                "text": "LDA тек суретке",
+                "isCorrect": false
+            },
+            {
+                "text": "PCA тек мәтінге",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "PCA қолданудың қандай шектеуі бар?",
+        "options": [
+            {
+                "text": "Модельді жояды",
+                "isCorrect": false
+            },
+            {
+                "text": "Тек 3 өлшемде жұмыс істейді",
+                "isCorrect": false
+            },
+            {
+                "text": "Сызықтық қатынасқа негізделеді",
+                "isCorrect": true
+            },
+            {
+                "text": "Категориялық деректерді жақсы өңдейді",
+                "isCorrect": false
+            },
+            {
+                "text": "Өте баяу",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Өлшемділікті қысқарту қай салада қолданылады?",
+        "options": [
+            {
+                "text": "Тек медицинада",
+                "isCorrect": false
+            },
+            {
+                "text": "Тек спортта",
+                "isCorrect": false
+            },
+            {
+                "text": "Бүкіл ML салаларында: классификация, кластерлеу",
+                "isCorrect": true
+            },
+            {
+                "text": "Тек мәтін талдау",
+                "isCorrect": false
+            },
+            {
+                "text": "География",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Нейрондық желіні оқытудың негізгі мақсаты қандай?",
+        "options": [
+            {
+                "text": "Модельді жою",
+                "isCorrect": false
+            },
+            {
+                "text": "Деректерді көшіру",
+                "isCorrect": false
+            },
+            {
+                "text": "Қателік функциясын минимизациялау",
+                "isCorrect": true
+            },
+            {
+                "text": "Кластер санын арттыру",
+                "isCorrect": false
+            },
+            {
+                "text": "Шуды көбейту",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Қателік функциясы (Loss Function) нені өлшейді?",
+        "options": [
+            {
+                "text": "Белгілердің санын",
+                "isCorrect": false
+            },
+            {
+                "text": "Модельдің жылдамдығын",
+                "isCorrect": false
+            },
+            {
+                "text": "Болжау қателігін",
+                "isCorrect": true
+            },
+            {
+                "text": "Файл өлшемін",
+                "isCorrect": false
+            },
+            {
+                "text": "Кластерді",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "MSE қателік функциясының формуласы:",
+        "options": [
+            {
+                "text": "|y−ŷ|",
+                "isCorrect": false
+            },
+            {
+                "text": "(y+ŷ)/2",
+                "isCorrect": false
+            },
+            {
+                "text": "(y−ŷ)² орташа мәні",
+                "isCorrect": true
+            },
+            {
+                "text": "y×ŷ",
+                "isCorrect": false
+            },
+            {
+                "text": "y / ŷ",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Оқыту процессінің бірінші кезеңі:",
+        "options": [
+            {
+                "text": "Dropout",
+                "isCorrect": false
+            },
+            {
+                "text": "Модельді жою",
+                "isCorrect": false
+            },
+            {
+                "text": "Алдын ала параметрлерді инициализациялау",
+                "isCorrect": true
+            },
+            {
+                "text": "Талдау",
+                "isCorrect": false
+            },
+            {
+                "text": "Жүйені өшіру",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Gradient Descent алгоритмінің мақсаты:",
+        "options": [
+            {
+                "text": "Қате үлкейту",
+                "isCorrect": false
+            },
+            {
+                "text": "Ережелер табу",
+                "isCorrect": false
+            },
+            {
+                "text": "Loss функциясын минимумға түсіру",
+                "isCorrect": true
+            },
+            {
+                "text": "Модельді сығу",
+                "isCorrect": false
+            },
+            {
+                "text": "Кластер табу",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Learning rate (η) тым үлкен болса не болады?",
+        "options": [
+            {
+                "text": "Оқыту идеалды болады",
+                "isCorrect": false
+            },
+            {
+                "text": "Модель тұрақты",
+                "isCorrect": false
+            },
+            {
+                "text": "Модель минимумды \"секіріп\" өтіп кетеді",
+                "isCorrect": true
+            },
+            {
+                "text": "Жылдамдығы артады",
+                "isCorrect": false
+            },
+            {
+                "text": "Формула өзгермейді",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Backpropagation кезінде не жасалады?",
+        "options": [
+            {
+                "text": "График құрылады",
+                "isCorrect": false
+            },
+            {
+                "text": "Нейрондар өшіріледі",
+                "isCorrect": false
+            },
+            {
+                "text": "Градиенттер арқылы салмақтар жаңартылады",
+                "isCorrect": true
+            },
+            {
+                "text": "Файлдар көшіреді",
+                "isCorrect": false
+            },
+            {
+                "text": "Таймсерия жасайды",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Overfitting дегеніміз не?",
+        "options": [
+            {
+                "text": "Модельдің өте қарапайым болуы",
+                "isCorrect": false
+            },
+            {
+                "text": "Деректердің жетіспеушілігі",
+                "isCorrect": false
+            },
+            {
+                "text": "Модельдің тек тренингке жақсы, бірақ тестке нашар болуы",
+                "isCorrect": true
+            },
+            {
+                "text": "Компьютердің қызуы",
+                "isCorrect": false
+            },
+            {
+                "text": "Графикалық қателік",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Overfitting-ті азайтатын әдіс:",
+        "options": [
+            {
+                "text": "LR арттыру",
+                "isCorrect": false
+            },
+            {
+                "text": "Dropout қолданбау",
+                "isCorrect": false
+            },
+            {
+                "text": "Regularization",
+                "isCorrect": true
+            },
+            {
+                "text": "Кептеліс",
+                "isCorrect": false
+            },
+            {
+                "text": "Random Error",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Dropout әдісінің мақсаты:",
+        "options": [
+            {
+                "text": "Салмақтарды өсіру",
+                "isCorrect": false
+            },
+            {
+                "text": "Алгоритмді тоқтату",
+                "isCorrect": false
+            },
+            {
+                "text": "Нейрондардың бір бөлігін уақытша өшіру",
+                "isCorrect": true
+            },
+            {
+                "text": "Файлдарды өңдеу",
+                "isCorrect": false
+            },
+            {
+                "text": "Қате қосу",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Регрессия дегеніміз не?",
+        "options": [
+            {
+                "text": "Категориялық болжау",
+                "isCorrect": false
+            },
+            {
+                "text": "Шуды көбейту",
+                "isCorrect": false
+            },
+            {
+                "text": "Сандық мәндерді болжау",
+                "isCorrect": true
+            },
+            {
+                "text": "Деректерді жою",
+                "isCorrect": false
+            },
+            {
+                "text": "Сәйкестендіру",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Сызықтық регрессияның формуласы:",
+        "options": [
+            {
+                "text": "y = mx/b",
+                "isCorrect": false
+            },
+            {
+                "text": "y = ab + c",
+                "isCorrect": false
+            },
+            {
+                "text": "y = wx + b",
+                "isCorrect": true
+            },
+            {
+                "text": "y = x²",
+                "isCorrect": false
+            },
+            {
+                "text": "y = log(x)",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Параметрлерді OLS әдісі қай мақсатта қолданылады?",
+        "options": [
+            {
+                "text": "Файлдарды қысу",
+                "isCorrect": false
+            },
+            {
+                "text": "Кластер беру",
+                "isCorrect": false
+            },
+            {
+                "text": "Қателікті минимумға келтіретін сызықты табу",
+                "isCorrect": true
+            },
+            {
+                "text": "Таймсерия құру",
+                "isCorrect": false
+            },
+            {
+                "text": "График салу",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "R² көрсеткіші нені білдіреді?",
+        "options": [
+            {
+                "text": "Қате деңгейін",
+                "isCorrect": false
+            },
+            {
+                "text": "Файл өлшемін",
+                "isCorrect": false
+            },
+            {
+                "text": "Модельдің деректерді түсіндіру қабілетін",
+                "isCorrect": true
+            },
+            {
+                "text": "Шуды",
+                "isCorrect": false
+            },
+            {
+                "text": "Кластер сапасын",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Логистикалық регрессия не үшін қолданылады?",
+        "options": [
+            {
+                "text": "Кластер табу",
+                "isCorrect": false
+            },
+            {
+                "text": "Regression",
+                "isCorrect": false
+            },
+            {
+                "text": "Екілік классификация",
+                "isCorrect": true
+            },
+            {
+                "text": "Таймсерия",
+                "isCorrect": false
+            },
+            {
+                "text": "Ағаш салу",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Логистикалық регрессияның негізгі формуласы:",
+        "options": [
+            {
+                "text": "y = mx + b",
+                "isCorrect": false
+            },
+            {
+                "text": "y = x²",
+                "isCorrect": false
+            },
+            {
+                "text": "σ(wx + b)",
+                "isCorrect": true
+            },
+            {
+                "text": "y = sqrt(x)",
+                "isCorrect": false
+            },
+            {
+                "text": "y = cos(x)",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Көпфакторлы регрессия дегеніміз:",
+        "options": [
+            {
+                "text": "Бір айнымалы",
+                "isCorrect": false
+            },
+            {
+                "text": "Тек категориялық дерек",
+                "isCorrect": false
+            },
+            {
+                "text": "Бірнеше тәуелсіз айнымалысы бар регрессия",
+                "isCorrect": true
+            },
+            {
+                "text": "Модельсіз болжау",
+                "isCorrect": false
+            },
+            {
+                "text": "Шуы көп деректер",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Болжау (Forecasting) әдісіне қайсысы жатады?",
+        "options": [
+            {
+                "text": "Decision Tree",
+                "isCorrect": false
+            },
+            {
+                "text": "Random Forest",
+                "isCorrect": false
+            },
+            {
+                "text": "Moving Average",
+                "isCorrect": true
+            },
+            {
+                "text": "K-means",
+                "isCorrect": false
+            },
+            {
+                "text": "DBSCAN",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "MAE көрсеткіші нені өлшейді?",
+        "options": [
+            {
+                "text": "Квадраттық қате",
+                "isCorrect": false
+            },
+            {
+                "text": "Нормализация",
+                "isCorrect": false
+            },
+            {
+                "text": "Орташа абсолюттік қателікті",
+                "isCorrect": true
+            },
+            {
+                "text": "Энтропия",
+                "isCorrect": false
+            },
+            {
+                "text": "Түсініксіздік",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Регрессия қай салаларда қолданылады?",
+        "options": [
+            {
+                "text": "Ауа райын болжау",
+                "isCorrect": false
+            },
+            {
+                "text": "Қаржы",
+                "isCorrect": false
+            },
+            {
+                "text": "Медицина",
+                "isCorrect": false
+            },
+            {
+                "text": "Маркетинг",
+                "isCorrect": false
+            },
+            {
+                "text": "Барлығы",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Уақыттық қатар дегеніміз не?",
+        "options": [
+            {
+                "text": "Географиялық дерек",
+                "isCorrect": false
+            },
+            {
+                "text": "Категориялық дерек",
+                "isCorrect": false
+            },
+            {
+                "text": "Уақыт бойынша реттелген деректер",
+                "isCorrect": true
+            },
+            {
+                "text": "Тек мәтіндік дерек",
+                "isCorrect": false
+            },
+            {
+                "text": "Бейнелер",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Уақыттық қатардың негізгі компоненті емес:",
+        "options": [
+            {
+                "text": "Trend",
+                "isCorrect": false
+            },
+            {
+                "text": "Seasonality",
+                "isCorrect": false
+            },
+            {
+                "text": "Noise",
+                "isCorrect": false
+            },
+            {
+                "text": "Level",
+                "isCorrect": false
+            },
+            {
+                "text": "Clustering",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "Маусымдық компонент (Seasonality) нені білдіреді?",
+        "options": [
+            {
+                "text": "Кездейсоқ тербеліс",
+                "isCorrect": false
+            },
+            {
+                "text": "Ұзақ мерзімді өзгеріс",
+                "isCorrect": false
+            },
+            {
+                "text": "Қайталап отыратын үлгі",
+                "isCorrect": true
+            },
+            {
+                "text": "Деректердің жойылуы",
+                "isCorrect": false
+            },
+            {
+                "text": "Фильтрлеу",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Жылжымалы орташа (Moving Average) не үшін қолданылады?",
+        "options": [
+            {
+                "text": "Деректерді сығу",
+                "isCorrect": false
+            },
+            {
+                "text": "Модельді тоқтату",
+                "isCorrect": false
+            },
+            {
+                "text": "Шуды тегістеу, трендті көру үшін",
+                "isCorrect": true
+            },
+            {
+                "text": "Кластер санын табу",
+                "isCorrect": false
+            },
+            {
+                "text": "Мәтін өңдеу",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "ARIMA моделіндегі “p” параметрі нені білдіреді?",
+        "options": [
+            {
+                "text": "Маусымдық терезе",
+                "isCorrect": false
+            },
+            {
+                "text": "Болжау саны",
+                "isCorrect": false
+            },
+            {
+                "text": "Автокорреляция реттілігі",
+                "isCorrect": true
+            },
+            {
+                "text": "Қадам саны",
+                "isCorrect": false
+            },
+            {
+                "text": "Кездейсоқтық",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "SARIMA моделінің ерекшелігі:",
+        "options": [
+            {
+                "text": "Категориялық деректерге арналған",
+                "isCorrect": false
+            },
+            {
+                "text": "Суреттерді талдайды",
+                "isCorrect": false
+            },
+            {
+                "text": "Маусымдық компонентті модельдейді",
+                "isCorrect": true
+            },
+            {
+                "text": "Жай Moving Average",
+                "isCorrect": false
+            },
+            {
+                "text": "Тек трендті ескереді",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "LSTM моделі уақыттық қатарларда не үшін тиімді?",
+        "options": [
+            {
+                "text": "Шуды көбейтеді",
+                "isCorrect": false
+            },
+            {
+                "text": "Суреттерді жақсы таниды",
+                "isCorrect": false
+            },
+            {
+                "text": "Ұзақ тәуелділіктерді есте сақтайды",
+                "isCorrect": true
+            },
+            {
+                "text": "Деректерді жояды",
+                "isCorrect": false
+            },
+            {
+                "text": "Модельді баяулатады",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Болжау сапасын бағалау көрсеткішіне қайсысы жатады?",
+        "options": [
+            {
+                "text": "Lift",
+                "isCorrect": false
+            },
+            {
+                "text": "Silhouette Score",
+                "isCorrect": false
+            },
+            {
+                "text": "MAE",
+                "isCorrect": true
+            },
+            {
+                "text": "Entropy",
+                "isCorrect": false
+            },
+            {
+                "text": "Precision",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Уақыттық қатар қолданылатын сала:",
+        "options": [
+            {
+                "text": "Геология",
+                "isCorrect": false
+            },
+            {
+                "text": "Қаржы",
+                "isCorrect": true
+            },
+            {
+                "text": "Сурет салу",
+                "isCorrect": false
+            },
+            {
+                "text": "Математикалық анализ",
+                "isCorrect": false
+            },
+            {
+                "text": "Биология",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "ARIMA аббревиатурасының толық ашылуы:",
+        "options": [
+            {
+                "text": "Auto Regression and Manual Integration",
+                "isCorrect": false
+            },
+            {
+                "text": "Automated Random Model Analysis",
+                "isCorrect": false
+            },
+            {
+                "text": "AutoRegressive Integrated Moving Average",
+                "isCorrect": true
+            },
+            {
+                "text": "Aggregated Regression in Machine Algorithms",
+                "isCorrect": false
+            },
+            {
+                "text": "Average Rate Model",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Elbow әдісі не үшін қолданылады?",
+        "options": [
+            {
+                "text": "Ағаш салу",
+                "isCorrect": false
+            },
+            {
+                "text": "Регрессия формуласы",
+                "isCorrect": false
+            },
+            {
+                "text": "Оптимальды кластер санын табу",
+                "isCorrect": true
+            },
+            {
+                "text": "Шуды көбейту",
+                "isCorrect": false
+            },
+            {
+                "text": "График түстерін өзгерту",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "K-means алгоритмінің тоқтау шарты қандай?",
+        "options": [
+            {
+                "text": "Файл біткенде",
+                "isCorrect": false
+            },
+            {
+                "text": "Компьютер өшкенде",
+                "isCorrect": false
+            },
+            {
+                "text": "Центроидтар өзгермей қалған кезде",
+                "isCorrect": true
+            },
+            {
+                "text": "Орташа мән өскенде",
+                "isCorrect": false
+            },
+            {
+                "text": "График салынғанда",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "DBSCAN артықшылығы неде?",
+        "options": [
+            {
+                "text": "Тек сызықтық деректерге жарайды",
+                "isCorrect": false
+            },
+            {
+                "text": "Кластер санын алдын ала сұрамайды",
+                "isCorrect": true
+            },
+            {
+                "text": "Шуды елемейді",
+                "isCorrect": false
+            },
+            {
+                "text": "Өте баяу",
+                "isCorrect": false
+            },
+            {
+                "text": "Категориялық деректерге арналған",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "K-means және DBSCAN айырмашылығы неде?",
+        "options": [
+            {
+                "text": "Екеуі де supervised",
+                "isCorrect": false
+            },
+            {
+                "text": "Екеуі де кластер санын талап етеді",
+                "isCorrect": false
+            },
+            {
+                "text": "K-means – орташаға, DBSCAN – тығыздыққа негізделген",
+                "isCorrect": true
+            },
+            {
+                "text": "DBSCAN — регрессия",
+                "isCorrect": false
+            },
+            {
+                "text": "K-means — уақыттық қатар",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Логистикалық регрессия не үшін қолданылады?",
+        "options": [
+            {
+                "text": "Сурет бөлу",
+                "isCorrect": false
+            },
+            {
+                "text": "Таймсерия",
+                "isCorrect": false
+            },
+            {
+                "text": "Екілік классификация",
+                "isCorrect": true
+            },
+            {
+                "text": "Дисперсия есептеу",
+                "isCorrect": false
+            },
+            {
+                "text": "Кластер табу",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Polynomial Regression ерекшелігі қандай?",
+        "options": [
+            {
+                "text": "Мәтінге қолданылады",
+                "isCorrect": false
+            },
+            {
+                "text": "Тек 2 айнымалы қолданады",
+                "isCorrect": false
+            },
+            {
+                "text": "Қисық (полиномиалды) байланыстарды модельдейді",
+                "isCorrect": true
+            },
+            {
+                "text": "Нейрондарды жояды",
+                "isCorrect": false
+            },
+            {
+                "text": "График салмайды",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Market Basket Analysis нені зерттейді?",
+        "options": [
+            {
+                "text": "Клиенттердің сатып алу байланыстарын",
+                "isCorrect": true
+            },
+            {
+                "text": "Бағаларды",
+                "isCorrect": false
+            },
+            {
+                "text": "Пайыздарды",
+                "isCorrect": false
+            },
+            {
+                "text": "Клиент жасын",
+                "isCorrect": false
+            },
+            {
+                "text": "Географиялық нүктелерді",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Confidence = 1 нені білдіреді?",
+        "options": [
+            {
+                "text": "Ереже жарамсыз",
+                "isCorrect": false
+            },
+            {
+                "text": "X пен Y мүлдем кездеспейді",
+                "isCorrect": false
+            },
+            {
+                "text": "X болса, Y әрқашан болады",
+                "isCorrect": true
+            },
+            {
+                "text": "Байланыс әлсіз",
+                "isCorrect": false
+            },
+            {
+                "text": "Түсініксіз нәтиже",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Ассоциативті ережелерді іздеу қай салада жиі қолданылады?",
+        "options": [
+            {
+                "text": "Генетика",
+                "isCorrect": false
+            },
+            {
+                "text": "Геодезия",
+                "isCorrect": false
+            },
+            {
+                "text": "Сауда саласы",
+                "isCorrect": true
+            },
+            {
+                "text": "Ойын индустриясы",
+                "isCorrect": false
+            },
+            {
+                "text": "Медицина",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Мысал: “Егер клиент сүт алса, онда нан алады”. “Сүт” қалай аталады?",
+        "options": [
+            {
+                "text": "Consequent",
+                "isCorrect": false
+            },
+            {
+                "text": "Lift",
+                "isCorrect": false
+            },
+            {
+                "text": "Antecedent",
+                "isCorrect": true
+            },
+            {
+                "text": "Support",
+                "isCorrect": false
+            },
+            {
+                "text": "Cluster",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Мысал: “Егер клиент сүт алса, онда нан алады”. “Нан” қалай аталады?",
+        "options": [
+            {
+                "text": "Antecedent",
+                "isCorrect": false
+            },
+            {
+                "text": "Support",
+                "isCorrect": false
+            },
+            {
+                "text": "Confidence",
+                "isCorrect": false
+            },
+            {
+                "text": "Consequent",
+                "isCorrect": true
+            },
+            {
+                "text": "Frequency",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Нейрон (Neuron) дегеніміз не?",
+        "options": [
+            {
+                "text": "Файлдың атауы",
+                "isCorrect": false
+            },
+            {
+                "text": "Логикалық функция",
+                "isCorrect": false
+            },
+            {
+                "text": "Кіру, салмақ және активациядан тұратын элемент",
+                "isCorrect": true
+            },
+            {
+                "text": "Интеграл",
+                "isCorrect": false
+            },
+            {
+                "text": "Желілік карта",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Epoch термині нені білдіреді?",
+        "options": [
+            {
+                "text": "Бір нейрон",
+                "isCorrect": false
+            },
+            {
+                "text": "Бір батч",
+                "isCorrect": false
+            },
+            {
+                "text": "Деректердің толық бір рет өтуі",
+                "isCorrect": true
+            },
+            {
+                "text": "Қате саны",
+                "isCorrect": false
+            },
+            {
+                "text": "Тек тест дерегі",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Batch дегеніміз не?",
+        "options": [
+            {
+                "text": "Модельдің соңғы қадамы",
+                "isCorrect": false
+            },
+            {
+                "text": "Бір нейронның қатесі",
+                "isCorrect": false
+            },
+            {
+                "text": "Деректердің шағын бөлігі",
+                "isCorrect": true
+            },
+            {
+                "text": "Файл өлшемі",
+                "isCorrect": false
+            },
+            {
+                "text": "Мәтін көлемі",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Learning Rate неге әсер етеді?",
+        "options": [
+            {
+                "text": "Логистиканың жылдамдығына",
+                "isCorrect": false
+            },
+            {
+                "text": "Деректердің көлеміне",
+                "isCorrect": false
+            },
+            {
+                "text": "Модельдің үйрену жылдамдығы",
+                "isCorrect": true
+            },
+            {
+                "text": "График масштабына",
+                "isCorrect": false
+            },
+            {
+                "text": "Мәтіннің ұзындығына",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Overfitting нейрондық желіде нені білдіреді?",
+        "options": [
+            {
+                "text": "Модель баяу жұмыс істеуі",
+                "isCorrect": false
+            },
+            {
+                "text": "Модель мүлдем үйренбеуі",
+                "isCorrect": false
+            },
+            {
+                "text": "Модель тренингке \"жаттап алып\", тестте нашар нәтиже беруі",
+                "isCorrect": true
+            },
+            {
+                "text": "Жоғары қателік",
+                "isCorrect": false
+            },
+            {
+                "text": "Ешқандай дерек болмауы",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Dropout әдісі не үшін қолданылады?",
+        "options": [
+            {
+                "text": "Модельді жою",
+                "isCorrect": false
+            },
+            {
+                "text": "Lern rate өзгерту",
+                "isCorrect": false
+            },
+            {
+                "text": "Overfitting-тен қорғау",
+                "isCorrect": true
+            },
+            {
+                "text": "Тренд табу",
+                "isCorrect": false
+            },
+            {
+                "text": "Мәтінді аудару",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Neural Network үйрену процесі қалай аталады?",
+        "options": [
+            {
+                "text": "Forecasting",
+                "isCorrect": false
+            },
+            {
+                "text": "Backpropagation",
+                "isCorrect": true
+            },
+            {
+                "text": "DBSCAN",
+                "isCorrect": false
+            },
+            {
+                "text": "Sampling",
+                "isCorrect": false
+            },
+            {
+                "text": "PCA",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Loss Function нейрондық желілерде не істейді?",
+        "options": [
+            {
+                "text": "Суретті үлкейтеді",
+                "isCorrect": false
+            },
+            {
+                "text": "Салмақты жояды",
+                "isCorrect": false
+            },
+            {
+                "text": "Қателікті өлшейді",
+                "isCorrect": true
+            },
+            {
+                "text": "Мәтін қосады",
+                "isCorrect": false
+            },
+            {
+                "text": "Кластер санын табады",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Optimizer не үшін қажет?",
+        "options": [
+            {
+                "text": "Модельді сақтау",
+                "isCorrect": false
+            },
+            {
+                "text": "Мәтін аудару",
+                "isCorrect": false
+            },
+            {
+                "text": "Салмақтарды тиімді жаңарту үшін",
+                "isCorrect": true
+            },
+            {
+                "text": "График салу",
+                "isCorrect": false
+            },
+            {
+                "text": "Қателерді жасыру",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Deep Learning дегеніміз не?",
+        "options": [
+            {
+                "text": "Қысқа формулалар",
+                "isCorrect": false
+            },
+            {
+                "text": "Бір қабатты желі",
+                "isCorrect": false
+            },
+            {
+                "text": "Көп қабатты нейрондық желілердің жиынтығы",
+                "isCorrect": true
+            },
+            {
+                "text": "Видео жүктеу",
+                "isCorrect": false
+            },
+            {
+                "text": "Аудио жазу",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Input Layer не үшін қажет?",
+        "options": [
+            {
+                "text": "Ережелер жазу",
+                "isCorrect": false
+            },
+            {
+                "text": "Қате есептеу",
+                "isCorrect": false
+            },
+            {
+                "text": "Модельге бастапқы деректерді беру",
+                "isCorrect": true
+            },
+            {
+                "text": "График салу",
+                "isCorrect": false
+            },
+            {
+                "text": "Кластерді бөлу",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Output Layer не істейді?",
+        "options": [
+            {
+                "text": "Деректерді жинайды",
+                "isCorrect": false
+            },
+            {
+                "text": "Модельді өшіреді",
+                "isCorrect": false
+            },
+            {
+                "text": "Соңғы болжамды шығарады",
+                "isCorrect": true
+            },
+            {
+                "text": "Шуды көбейтеді",
+                "isCorrect": false
+            },
+            {
+                "text": "Кілттерді сақтайды",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Hidden Layer мағынасы қандай?",
+        "options": [
+            {
+                "text": "Модельді жасыратын қабат",
+                "isCorrect": false
+            },
+            {
+                "text": "Тест дерегі",
+                "isCorrect": false
+            },
+            {
+                "text": "Есептеулер жүретін ішкі қабаттар",
+                "isCorrect": true
+            },
+            {
+                "text": "Файл аттары",
+                "isCorrect": false
+            },
+            {
+                "text": "Кластер саны",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Activation Function не үшін қолданылады?",
+        "options": [
+            {
+                "text": "Деректерді шифрлау",
+                "isCorrect": false
+            },
+            {
+                "text": "График жасау",
+                "isCorrect": false
+            },
+            {
+                "text": "Нелинейлік енгізу, шығуды есептеу",
+                "isCorrect": true
+            },
+            {
+                "text": "Файлдарды бояу",
+                "isCorrect": false
+            },
+            {
+                "text": "Тек регрессия",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Weight (салмақ) нені білдіреді?",
+        "options": [
+            {
+                "text": "Файл өлшемін",
+                "isCorrect": false
+            },
+            {
+                "text": "Шуды",
+                "isCorrect": false
+            },
+            {
+                "text": "Нейрон байланыстарының маңызын",
+                "isCorrect": true
+            },
+            {
+                "text": "Нейрон санын",
+                "isCorrect": false
+            },
+            {
+                "text": "Графиктің биіктігін",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Модель сапасын бағалауда Accuracy не көрсетеді?",
+        "options": [
+            {
+                "text": "Қате үлесін",
+                "isCorrect": false
+            },
+            {
+                "text": "Позитив үлесін",
+                "isCorrect": false
+            },
+            {
+                "text": "Барлық дұрыс болжамдардың үлесін",
+                "isCorrect": true
+            },
+            {
+                "text": "Ара қашықтық",
+                "isCorrect": false
+            },
+            {
+                "text": "Шудың деңгейі",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Precision не үшін қолданылады?",
+        "options": [
+            {
+                "text": "Бейнені қысу",
+                "isCorrect": false
+            },
+            {
+                "text": "Таймсерия",
+                "isCorrect": false
+            },
+            {
+                "text": "Позитив болжамдардың қаншасы дұрыс екенін өлшеу",
+                "isCorrect": true
+            },
+            {
+                "text": "Деректерді сақтау",
+                "isCorrect": false
+            },
+            {
+                "text": "Параметр жасыру",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Mean Squared Error (MSE) не үшін қолданылады?",
+        "options": [
+            {
+                "text": "Дұрыс классификация",
+                "isCorrect": false
+            },
+            {
+                "text": "Қате санын азайту",
+                "isCorrect": false
+            },
+            {
+                "text": "Орташа квадраттық қателікті өлшеу",
+                "isCorrect": true
+            },
+            {
+                "text": "Кластерлеу",
+                "isCorrect": false
+            },
+            {
+                "text": "Дискретизация",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Root Mean Squared Error (RMSE) айырмашылығы неде?",
+        "options": [
+            {
+                "text": "Баяу",
+                "isCorrect": false
+            },
+            {
+                "text": "Қарапайым",
+                "isCorrect": false
+            },
+            {
+                "text": "MSE-нің квадрат түбірі",
+                "isCorrect": true
+            },
+            {
+                "text": "Түсініксіз",
+                "isCorrect": false
+            },
+            {
+                "text": "Мәні теріс болады",
+                "isCorrect": false
+            }
+        ]
+    }
+]
