@@ -13,64 +13,64 @@
 
     body {
       font-family: 'Segoe UI', sans-serif;
-      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      background: linear-gradient(135deg, #2d3561 0%, #1a1f3a 100%);
       min-height: 100vh;
       display: flex;
       justify-content: center;
       align-items: center;
-      padding: 20px;
+      padding: 15px;
     }
 
     .container {
-      background: rgba(255, 255, 255, 0.95);
-      padding: 40px;
+      background: rgba(255, 255, 255, 0.98);
+      padding: 20px;
       border-radius: 20px;
-      box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
-      max-width: 800px;
+      box-shadow: 0 20px 60px rgba(0, 0, 0, 0.4);
+      max-width: 900px;
       width: 100%;
     }
 
     h1 {
       text-align: center;
-      color: #333;
-      margin-bottom: 40px;
-      font-size: 2.5em;
+      color: #2d3561;
+      margin-bottom: 25px;
+      font-size: 1.8em;
+    }
+
+    .flashcard-wrapper {
+      perspective: 1000px;
+      width: 100%;
+      min-height: 350px;
+      margin-bottom: 25px;
     }
 
     .flashcard {
-      background: white;
-      border-radius: 15px;
-      padding: 40px;
-      min-height: 300px;
-      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
-      cursor: pointer;
-      transition: transform 0.6s;
-      transform-style: preserve-3d;
+      width: 100%;
+      height: 100%;
+      min-height: 350px;
       position: relative;
+      transform-style: preserve-3d;
+      transition: transform 0.7s cubic-bezier(0.4, 0.0, 0.2, 1);
+      cursor: pointer;
     }
 
-    .flashcard.flipped .card-front {
+    .flashcard.flipped {
       transform: rotateY(180deg);
     }
 
-    .flashcard.flipped .card-back {
-      transform: rotateY(0deg);
-    }
-
     .card-front, .card-back {
-      backface-visibility: hidden;
-      transition: transform 0.6s;
       position: absolute;
-      top: 0;
-      left: 0;
       width: 100%;
       height: 100%;
+      min-height: 350px;
+      backface-visibility: hidden;
+      border-radius: 15px;
+      padding: 30px;
       display: flex;
       flex-direction: column;
       justify-content: center;
       align-items: center;
-      padding: 40px;
-      border-radius: 15px;
+      box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
     }
 
     .card-front {
@@ -79,95 +79,255 @@
     }
 
     .card-back {
-      background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+      background: linear-gradient(135deg, #43cea2 0%, #185a9d 100%);
       color: white;
       transform: rotateY(180deg);
     }
 
     .card-question, .card-answer {
-      font-size: 20px;
-      line-height: 1.6;
+      font-size: 1.15em;
+      line-height: 1.7;
       text-align: center;
+      max-width: 100%;
+      word-wrap: break-word;
     }
 
     .card-hint {
-      margin-top: 20px;
-      font-size: 14px;
-      opacity: 0.8;
+      margin-top: 25px;
+      font-size: 0.85em;
+      opacity: 0.85;
       font-style: italic;
+      text-align: center;
     }
 
     .flashcard-controls {
       display: flex;
       justify-content: space-between;
       align-items: center;
-      margin-top: 30px;
+      gap: 15px;
+      flex-wrap: wrap;
     }
 
     .control-btn {
-      padding: 12px 25px;
+      padding: 12px 20px;
       background: #667eea;
       color: white;
       border: none;
-      border-radius: 8px;
+      border-radius: 10px;
       cursor: pointer;
       transition: all 0.3s;
-      font-size: 16px;
+      font-size: 15px;
+      font-weight: 600;
+      flex: 1;
+      min-width: 100px;
     }
 
     .control-btn:hover:not(:disabled) {
       background: #764ba2;
       transform: translateY(-2px);
+      box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+    }
+
+    .control-btn:active:not(:disabled) {
+      transform: translateY(0);
     }
 
     .control-btn:disabled {
-      background: #ccc;
+      background: #cbd5e0;
       cursor: not-allowed;
       transform: none;
     }
 
+    .progress-wrapper {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 10px;
+    }
+
     .progress {
       text-align: center;
-      font-size: 18px;
-      color: #666;
+      font-size: 1.1em;
+      color: #2d3561;
       font-weight: bold;
+    }
+
+    .shuffle-btn {
+      padding: 10px 20px;
+      background: #43cea2;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      font-size: 0.9em;
+      transition: all 0.3s;
+      font-weight: 600;
+    }
+
+    .shuffle-btn:hover {
+      background: #185a9d;
+      transform: scale(1.05);
     }
 
     .home-btn {
       position: fixed;
       bottom: 20px;
       right: 20px;
-      padding: 15px 30px;
-      background: rgba(255, 255, 255, 0.9);
+      padding: 12px 25px;
+      background: white;
       color: #667eea;
       border: 2px solid #667eea;
       border-radius: 25px;
-      font-size: 16px;
+      font-size: 15px;
       font-weight: bold;
       cursor: pointer;
       transition: all 0.3s;
       text-decoration: none;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+      z-index: 100;
     }
 
     .home-btn:hover {
       background: #667eea;
       color: white;
+      transform: translateY(-3px);
+      box-shadow: 0 6px 20px rgba(102, 126, 234, 0.4);
     }
 
-    .shuffle-btn {
-      padding: 10px 20px;
-      background: #f093fb;
-      color: white;
-      border: none;
-      border-radius: 8px;
-      cursor: pointer;
-      font-size: 14px;
-      transition: all 0.3s;
-      margin-top: 10px;
+    /* Адаптация для планшетов */
+    @media (max-width: 768px) {
+      h1 {
+        font-size: 1.5em;
+        margin-bottom: 20px;
+      }
+
+      .container {
+        padding: 15px;
+      }
+
+      .flashcard-wrapper {
+        min-height: 300px;
+      }
+
+      .card-front, .card-back {
+        min-height: 300px;
+        padding: 25px;
+      }
+
+      .card-question, .card-answer {
+        font-size: 1.05em;
+      }
+
+      .card-hint {
+        font-size: 0.8em;
+        margin-top: 20px;
+      }
+
+      .control-btn {
+        font-size: 14px;
+        padding: 10px 15px;
+      }
     }
 
-    .shuffle-btn:hover {
-      background: #f5576c;
+    /* Адаптация для мобильных */
+    @media (max-width: 480px) {
+      body {
+        padding: 10px;
+      }
+
+      h1 {
+        font-size: 1.3em;
+        margin-bottom: 15px;
+      }
+
+      .container {
+        padding: 12px;
+        border-radius: 15px;
+      }
+
+      .flashcard-wrapper {
+        min-height: 280px;
+        margin-bottom: 20px;
+      }
+
+      .card-front, .card-back {
+        min-height: 280px;
+        padding: 20px;
+        border-radius: 12px;
+      }
+
+      .card-question, .card-answer {
+        font-size: 0.95em;
+        line-height: 1.6;
+      }
+
+      .card-hint {
+        font-size: 0.75em;
+        margin-top: 15px;
+      }
+
+      .flashcard-controls {
+        gap: 10px;
+      }
+
+      .control-btn {
+        font-size: 13px;
+        padding: 10px 12px;
+        min-width: 80px;
+      }
+
+      .progress {
+        font-size: 1em;
+      }
+
+      .shuffle-btn {
+        padding: 8px 15px;
+        font-size: 0.85em;
+      }
+
+      .home-btn {
+        bottom: 15px;
+        right: 15px;
+        padding: 10px 20px;
+        font-size: 14px;
+      }
+    }
+
+    /* Очень маленькие экраны */
+    @media (max-width: 360px) {
+      .card-question, .card-answer {
+        font-size: 0.9em;
+      }
+
+      .control-btn {
+        font-size: 12px;
+        padding: 8px 10px;
+      }
+
+      .flashcard-wrapper {
+        min-height: 250px;
+      }
+
+      .card-front, .card-back {
+        min-height: 250px;
+        padding: 15px;
+      }
+    }
+
+    /* Анимация появления */
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+        transform: translateY(20px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    .container {
+      animation: fadeIn 0.5s ease-out;
     }
   </style>
 </head>
@@ -175,24 +335,26 @@
   <div class="container">
     <h1>📚 Data Mining - Карточки</h1>
     
-    <div class="flashcard" onclick="flipCard()">
-      <div class="card-front">
-        <div class="card-question" id="flashcard-question">Загрузка карточек...</div>
-        <div class="card-hint">Нажмите на карточку, чтобы увидеть ответ</div>
-      </div>
-      <div class="card-back">
-        <div class="card-answer" id="flashcard-answer"></div>
-        <div class="card-hint">Нажмите снова, чтобы вернуться к вопросу</div>
+    <div class="flashcard-wrapper">
+      <div class="flashcard" onclick="flipCard()">
+        <div class="card-front">
+          <div class="card-question" id="flashcard-question">Загрузка карточек...</div>
+          <div class="card-hint">👆 Нажмите на карточку</div>
+        </div>
+        <div class="card-back">
+          <div class="card-answer" id="flashcard-answer"></div>
+          <div class="card-hint">👆 Нажмите для возврата</div>
+        </div>
       </div>
     </div>
     
     <div class="flashcard-controls">
-      <button class="control-btn" id="prevCard" onclick="previousCard()">← Предыдущая</button>
-      <div>
+      <button class="control-btn" id="prevCard" onclick="previousCard()">← Назад</button>
+      <div class="progress-wrapper">
         <div class="progress" id="card-progress">0 / 0</div>
         <button class="shuffle-btn" onclick="shuffleCards()">🔀 Перемешать</button>
       </div>
-      <button class="control-btn" id="nextCard" onclick="nextCard()">Следующая →</button>
+      <button class="control-btn" id="nextCard" onclick="nextCard()">Вперед →</button>
     </div>
   </div>
 
@@ -203,7 +365,6 @@
     let currentCardIndex = 0;
     let isFlipped = false;
 
-    // Загружаем карточки из JSON
     async function loadFlashcards() {
       try {
         const params = new URLSearchParams(window.location.search);
@@ -233,7 +394,6 @@
       document.getElementById('flashcard-question').textContent = card.question;
       document.getElementById('flashcard-answer').textContent = card.answer;
       
-      // Сбрасываем переворот
       const flashcard = document.querySelector('.flashcard');
       flashcard.classList.remove('flipped');
       isFlipped = false;
@@ -282,7 +442,6 @@
       showCard();
     }
 
-    // Клавиатурные сокращения
     document.addEventListener('keydown', (e) => {
       if (e.key === 'ArrowRight') nextCard();
       if (e.key === 'ArrowLeft') previousCard();
@@ -292,7 +451,6 @@
       }
     });
 
-    // Загружаем карточки при загрузке страницы
     loadFlashcards();
   </script>
 </body>
