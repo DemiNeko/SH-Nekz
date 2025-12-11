@@ -4268,7 +4268,7 @@
     "options": [
       {
         "text": "1974 жыл.",
-        "isCorrect": true
+        "isCorrect": false
       },
       {
         "text": "1980 ж.",
@@ -4280,7 +4280,7 @@
       },
       {
         "text": "1977 ж.",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "text": "1966 ж.",
@@ -6110,11 +6110,11 @@
     "options": [
       {
         "text": "1975 жылы",
-        "isCorrect": true
+        "isCorrect": false
       },
       {
         "text": "1977 жылы",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "text": "1979 жылы",
