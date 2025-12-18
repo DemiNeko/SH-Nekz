@@ -6426,7 +6426,7 @@
     "options": [
       {
         "text": "Л.В. Альберти",
-        "isCorrect": true
+        "isCorrect": false
       },
       {
         "text": "И. Трисемус",
@@ -6434,7 +6434,7 @@
       },
       {
         "text": "К.Шенон",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "text": "Плейфер",
@@ -6451,7 +6451,7 @@
     "options": [
       {
         "text": "кестелер, магик квадраттар, полибиан квадраттары",
-        "isCorrect": true
+        "isCorrect": false
       },
       {
         "text": "кестелер, квадраттар",
@@ -6463,7 +6463,7 @@
       },
       {
         "text": "символдар, ңріптер",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "text": "алфавиттер",
@@ -6476,7 +6476,7 @@
     "options": [
       {
         "text": "күрделі",
-        "isCorrect": true
+        "isCorrect": false
       },
       {
         "text": "орын алмаспау",
@@ -6492,7 +6492,7 @@
       },
       {
         "text": "арнайы",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   },
@@ -6551,7 +6551,7 @@
     "options": [
       {
         "text": "”Шифрлау туралы трактаты”",
-        "isCorrect": true
+        "isCorrect": false
       },
       {
         "text": "“Шифрлау ” шығармасы",
@@ -6563,7 +6563,7 @@
       },
       {
         "text": "“Криптология” шығармасы",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "text": "”Құпиясөздер” шығармасы",
@@ -6576,7 +6576,7 @@
     "options": [
       {
         "text": "Шифрлау үшін негізгі сипаттама",
-        "isCorrect": true
+        "isCorrect": false
       },
       {
         "text": "Стандартқа сәйкес шифрлар.",
@@ -6592,7 +6592,7 @@
       },
       {
         "text": "Криптограпиялық шифрлар және шифрлардың кері шифрлау процесін қолданады",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   },
@@ -6601,11 +6601,11 @@
     "options": [
       {
         "text": "Қандайда бір алфавитті тек ашық мәтінде жазуға болады",
-        "isCorrect": true
+        "isCorrect": false
       },
       {
         "text": "Ашық мәтінде де,шифрланған мәтінге де қолданылатын қандайда бір алфавит",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "text": "Гаммалау шифрлары",
@@ -6626,7 +6626,7 @@
     "options": [
       {
         "text": "Криптографиялық ақпаратты қорғау",
-        "isCorrect": true
+        "isCorrect": false
       },
       {
         "text": "Әдетте бұл характеристика шифрларының ашылуы үшін керек",
@@ -6634,7 +6634,7 @@
       },
       {
         "text": "криптоанализ әдістері арқылы ашуға төзімділігінеайтады",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "text": "Жеткілікті криптографиялық қорғау",
@@ -6676,7 +6676,7 @@
     "options": [
       {
         "text": "Жеткілікті криптотөзімділік",
-        "isCorrect": true
+        "isCorrect": false
       },
       {
         "text": "Ашық мәтінде де,шифрланған мәтін",
@@ -6692,7 +6692,7 @@
       },
       {
         "text": "Шифрлардағы шифрланатын мәтін символдары",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   },
@@ -6726,7 +6726,7 @@
     "options": [
       {
         "text": "VI-ғасырда",
-        "isCorrect": true
+        "isCorrect": false
       },
       {
         "text": "V-ғасырда",
@@ -6742,7 +6742,7 @@
       },
       {
         "text": "VII-ғасырда",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   },
@@ -6801,7 +6801,7 @@
     "options": [
       {
         "text": "Испания",
-        "isCorrect": true
+        "isCorrect": false
       },
       {
         "text": "Италия",
@@ -6817,7 +6817,7 @@
       },
       {
         "text": "Америка.",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   },
@@ -7051,7 +7051,7 @@
     "options": [
       {
         "text": "Шифрлау және кері шифрлаудың бір-бірімен байланыссыз болуы",
-        "isCorrect": true
+        "isCorrect": false
       },
       {
         "text": "Тәуелді түрде бірдей шифрлау кілтімен шифрланады",
@@ -7067,7 +7067,7 @@
       },
       {
         "text": "Берілген жауаптардың барлығы дұрыс.",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   },
@@ -7076,7 +7076,7 @@
     "options": [
       {
         "text": "Блокты информациялау алгоритмі болп есептелінеді",
-        "isCorrect": true
+        "isCorrect": false
       },
       {
         "text": "Сандарды шифрлау алгоритмі болып есептелінеді",
@@ -7088,7 +7088,7 @@
       },
       {
         "text": "IDEA алгоритмінің жетістігін есептейтін алгоритм болып есептелінеді",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "text": "Барлығы дұрыс",
@@ -7226,11 +7226,11 @@
     "options": [
       {
         "text": "1",
-        "isCorrect": true
+        "isCorrect": false
       },
       {
         "text": "4",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "text": "2",
@@ -7251,7 +7251,7 @@
     "options": [
       {
         "text": "Шифрлау функциясының симетриялығы немесе симметриясы",
-        "isCorrect": true
+        "isCorrect": false
       },
       {
         "text": "Ерекше биттер не блоктар мен орындалатын оператолар",
@@ -7267,7 +7267,7 @@
       },
       {
         "text": "Барлығы дұрыс",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   },
@@ -7276,11 +7276,11 @@
     "options": [
       {
         "text": "кері байлансты шифрлау жүйелерінде",
-        "isCorrect": true
+        "isCorrect": false
       },
       {
         "text": "информациялық жүйелерде",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "text": "Түрлі нұсқаларда біріктіру жүйелерінде",
@@ -7326,7 +7326,7 @@
     "options": [
       {
         "text": "Аристотель",
-        "isCorrect": true
+        "isCorrect": false
       },
       {
         "text": "Халей",
@@ -7342,7 +7342,7 @@
       },
       {
         "text": "У. Диффи және М. Хеллман",
-        "isCorrect": false
+        "isCorrect": true
       }
     ]
   },
@@ -7376,11 +7376,11 @@
     "options": [
       {
         "text": "5",
-        "isCorrect": true
+        "isCorrect": false
       },
       {
         "text": "2",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "text": "3",
@@ -7401,11 +7401,11 @@
     "options": [
       {
         "text": "Шифрлау және кері шифрлау",
-        "isCorrect": true
+        "isCorrect": false
       },
       {
         "text": "Асиметриялы криптожүйеде ақпаратты қорғау құпия кілтке негізделген",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "text": "Мұндай жүйелерде мәліметтерді шифрлау үшін бір кілт қолданылады",
@@ -7476,11 +7476,11 @@
     "options": [
       {
         "text": "8",
-        "isCorrect": true
+        "isCorrect": false
       },
       {
         "text": "5",
-        "isCorrect": false
+        "isCorrect": true
       },
       {
         "text": "6",
